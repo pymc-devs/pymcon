@@ -1,5 +1,23 @@
-- title: Name
-  name: Name-1
+- title: Ravin Kumar
+  name:  Ravin Kumar 
+  subtitle: Executive
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Ravin Kumar
+  topic: Topic
+  description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
+
+- title: Thomas Wiecki
+  name: Thomas Wiecki
+  subtitle: Executive
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Thomas Wiecki
+  topic: Topic
+  description: More Info
+
+- title: Oriol Abril-Pla
+  name: Oriol Abril-Pla
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -7,20 +25,4 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
