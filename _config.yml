@@ -8,11 +8,11 @@ url: "https://pymc-devs.github.io/pymcon/" # the base hostname & protocol for yo
 markdown: kramdown
 
 facebook:
-  app_id: 
+  app_id:
 
 logo: "./css/2016_style/img/icon-large.png"
 
-social: 
+social:
   name: Your Facebook Page
   link: "https://www.facebook.com/"
 
@@ -26,10 +26,8 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/pymc_devs
 
 # Build settings
 markdown: kramdown
