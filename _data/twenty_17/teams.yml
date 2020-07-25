@@ -64,7 +64,16 @@
 
 - title: Cem
   name: Cem
-  subtitle: Volunteer
+  subtitle: Volunteer Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Colin Carroll
+  name: Colin Carroll
+  subtitle: Marketing Committee
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
