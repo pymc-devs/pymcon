@@ -1,11 +1,3 @@
-- title: Ravin Kumar
-  name:  Ravin Kumar 
-  subtitle: Executive
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of Ravin Kumar
-  topic: Topic
-  description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
 
 - title: Thomas Wiecki
   name: Thomas Wiecki
@@ -25,4 +17,65 @@
   topic: Topic
   description: More Info
 
+- title: Sid
+  name: Sid
+  subtitle: Marketing Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
 
+- title: Hector
+  name: Hector
+  subtitle: Program Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Quan
+  name: Quan
+  subtitle: Program Chair
+  img: TBD.jpg
+  thumbnail: quan.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Chris Krapu
+  name: Chris Krapu
+  subtitle: Program Committee
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Alex Andorra
+  name: Alex Andorra
+  subtitle: Volunteer
+  img: TBD.jpg
+  thumbnail: alex.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Cem
+  name: Cem
+  subtitle: Volunteer
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Ravin Kumar
+  name:  Ravin Kumar
+  subtitle: Executive
+  img: TBD.jpg
+  thumbnail: ravin.png
+  alt: Picture of Ravin Kumar
+  topic: Topic
+  description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
