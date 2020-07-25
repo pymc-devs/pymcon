@@ -53,20 +53,29 @@
   topic: Topic
   description: More Info
 
+- title: Cem
+  name: Cem
+  subtitle: Volunteer Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Colin Carroll
+  name: Colin Carroll
+  subtitle: Marketing Committee
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
 - title: Alex Andorra
   name: Alex Andorra
   subtitle: Volunteer
   img: TBD.jpg
   thumbnail: alex.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Cem
-  name: Cem
-  subtitle: Volunteer
-  img: TBD.jpg
-  thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
