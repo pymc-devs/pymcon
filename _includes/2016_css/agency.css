@@ -712,7 +712,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ "./img/map-image.png"  }}');
+    background-image: url('{{ "./img/contact.png"  }}');
     /* background-image: url('{{ site.project_name }}/css/2016_style/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
