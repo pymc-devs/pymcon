@@ -337,12 +337,13 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #fff;
+    color: #ddd;
     background-attachment: scroll; 
-    background-image: url('{{ "./img/header-bg.jpg" }}');
+    background-image: url('{{ "./img/header-bg-trajectories.jpg" }}');
     /* background-image: url('{{ site.project_name }}/css/2016_style/img/header-bg.jpg'); */
     background-position: center center;
     background-repeat: none;
+    background-color: #222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
