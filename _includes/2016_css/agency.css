@@ -57,6 +57,10 @@ p.large {
     font-size: 120%;
 }
 
+p.small {
+    font-size: 95%;
+}
+
 a,
 a:hover,
 a:focus,
@@ -338,7 +342,7 @@ header {
     height: 100vh;
     text-align: center;
     color: #fff;
-    background-attachment: scroll; 
+    background-attachment: scroll;
     background-image: url('{{ "./img/header-bg.jpg" }}');
     /* background-image: url('{{ site.project_name }}/css/2016_style/img/header-bg.jpg'); */
     background-position: center center;
@@ -371,7 +375,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
