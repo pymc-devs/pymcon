@@ -7,28 +7,22 @@
     }
     h1 {
         color: #2185d0;
-        padding: 5px 5px 5px 10px;
-        -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
-        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        padding: 5px 5px 5px 0px;
         width: 90%;
     }
     h2 {
         color: #111111;
-        padding: 5px 5px 5px 10px;
-        -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
-        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%); 
+        padding: 5px 5px 5px 0px;
         width: 80%;
     }
     h3 {
         color: #627E93;
-        padding: 5px 5px 5px 10px;
-        -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
-        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        padding: 5px 5px 5px 0px;
         width:80%
     }
 }
 .cfp p {
-     padding: 0px 0px 0px 10px;
+     padding: 0px 0px 0px 0px;
 }
 .cfp-container-top {
   margin-top: 100px;
