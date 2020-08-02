@@ -17,12 +17,12 @@
   topic: Topic
   description: More Info
 
-- title: Sid
-  name: Sid
+- title: Sid Ravinutala
+  name: Sid_Ravinutala
   subtitle: Marketing Chair
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: sid.png
+  thumbnail: sid.png
+  alt: Picture of Sid Ravinutala
   topic: Topic
   description: More Info
 
@@ -45,7 +45,7 @@
   description: More Info
 
 - title: Chris Krapu
-  name: Chris Krapu
+  name: Chris_Krapu
   subtitle: Program Committee
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -63,7 +63,7 @@
   description: More Info
 
 - title: Colin Carroll
-  name: Colin Carroll
+  name: Colin_Carroll
   subtitle: Marketing Committee
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -72,16 +72,16 @@
   description: More Info
 
 - title: Alex Andorra
-  name: Alex Andorra
+  name: Alex_Andorra
   subtitle: Volunteer
-  img: TBD.jpg
+  img: alex.png
   thumbnail: alex.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
 - title: Ravin Kumar
-  name:  Ravin Kumar
+  name:  Ravin_Kumar
   subtitle: Executive
   img: TBD.jpg
   thumbnail: ravin.png
