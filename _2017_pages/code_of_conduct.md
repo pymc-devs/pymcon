@@ -42,7 +42,7 @@ harassment and sexist, racist, or exclusionary jokes and language are not approp
 PyMCon.
 </p>
 <p>All communication should be appropriate for a professional audience including people of
-many different backgrounds. Sexual language and imagery is not appropriate.
+many different backgrounds. Sexual language and imagery are not appropriate.
 </p>
 <p>PyMCon is dedicated to providing a harassment-free event experience for everyone,
 regardless of gender, sexual orientation, gender identity, and expression, disability,
@@ -89,7 +89,7 @@ You can make a personal or anonymous report by:
 <p>
 During PyMCon, we recommend contacting via email or Slack so we can take
 immediate action if necessary. In addition to contacting directly with the Diversity
-committee, we also encourages you to make a report using our reporting form.
+committee, we also encourage you to make a report using our reporting form.
 </p>
 
 <p>
