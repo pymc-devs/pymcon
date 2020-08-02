@@ -1,6 +1,6 @@
 
 - title: Thomas Wiecki
-  name: Thomas Wiecki
+  name: Thomas-Wiecki
   subtitle: Executive
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -9,13 +9,18 @@
   description: More Info
 
 - title: Oriol Abril-Pla
-  name: Oriol Abril-Pla
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  name: Oriol-Abril-Pla
+  subtitle: Diversity Chair
+  img: oriol.png
+  thumbnail: oriol.png
+  alt: Picture of Oriol Abril-Pla
+  topic: Trying to keep an open yet skeptical mind by contributing to open source software+statistics
+  description: Oriol is a research assistant on Bayesian model selection on generalized linear models
+    at Universitat Pompeu Fabra (Barcelona). His work there with David Rossell is available as part
+    of the R/C++ package mombf. He is passionate about Bayesian statistics, open science and
+    reproducibility. He is an ArviZ core contributor and tries to contribute to the PyData ecosystem
+    and the greater Bayesian community. He has just started a blog on Bayesian statistics and open
+    source software at oriolabril.github.io
 
 - title: Sid Ravinutala
   name: Sid_Ravinutala
@@ -38,7 +43,7 @@
 - title: Quan
   name: Quan
   subtitle: Program Chair
-  img: TBD.jpg
+  img: quan.png
   thumbnail: quan.png
   alt: Picture of TBD
   topic: Topic
@@ -83,7 +88,7 @@
 - title: Ravin Kumar
   name:  Ravin_Kumar
   subtitle: Executive
-  img: TBD.jpg
+  img: ravin.png
   thumbnail: ravin.png
   alt: Picture of Ravin Kumar
   topic: Topic

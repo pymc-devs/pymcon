@@ -57,6 +57,10 @@ p.large {
     font-size: 120%;
 }
 
+p.small {
+    font-size: 95%;
+}
+
 a,
 a:hover,
 a:focus,
@@ -337,6 +341,11 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
+/* Changes from https://github.com/pymc-devs/pymcon/pull/16 that conflict. Keeping here for discussion
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url('{{ "./img/header-bg.jpg" }}');
+*/
     color: #ddd;
     background-attachment: scroll; 
     background-image: url('{{ "./img/header-bg-trajectories.jpg" }}');
@@ -372,7 +381,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
