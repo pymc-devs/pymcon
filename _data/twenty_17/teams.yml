@@ -22,12 +22,12 @@
     and the greater Bayesian community. He has just started a blog on Bayesian statistics and open
     source software at oriolabril.github.io
 
-- title: Sid
-  name: Sid
+- title: Sid Ravinutala
+  name: Sid_Ravinutala
   subtitle: Marketing Chair
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: sid.png
+  thumbnail: sid.png
+  alt: Picture of Sid Ravinutala
   topic: Topic
   description: More Info
 
@@ -50,7 +50,7 @@
   description: More Info
 
 - title: Chris Krapu
-  name: Chris-Krapu
+  name: Chris_Krapu
   subtitle: Program Committee
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -68,7 +68,7 @@
   description: More Info
 
 - title: Colin Carroll
-  name: Colin-Carroll
+  name: Colin_Carroll
   subtitle: Marketing Committee
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -77,7 +77,7 @@
   description: More Info
 
 - title: Alex Andorra
-  name: Alex-Andorra
+  name: Alex_Andorra
   subtitle: Volunteer
   img: alex.png
   thumbnail: alex.png
@@ -86,7 +86,7 @@
   description: More Info
 
 - title: Ravin Kumar
-  name:  Ravin-Kumar
+  name:  Ravin_Kumar
   subtitle: Executive
   img: ravin.png
   thumbnail: ravin.png
