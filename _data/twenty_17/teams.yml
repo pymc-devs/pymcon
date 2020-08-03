@@ -30,7 +30,18 @@
   alt: Sid Ravinutala
   topic:
   description:
-
+  
+- title: Hector Muñoz
+  name: Hector-Muñoz
+  subtitle: Program Chair
+  img: hector.png
+  thumbnail: hector.png
+  alt: Picture of Hector Muñoz
+  topic: Hector is a Bayesian and open source enthusiast who enjoys learning how to build models for complex systems.
+  description: Hector is a recent Bioengineering PhD from UCLA.
+    He seeks to solve complex biomedical problems with reproducible statistics and machine learning.
+    He is a Python and Bayesian enthusiast, who tries to think harder about his priors,
+    and seeks to quantify uncertainty and confidence in life.
 
 - title: Quan
   name: Quan
@@ -88,15 +99,3 @@
   alt: Picture of Ravin Kumar
   topic:
   description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
-
-- title: Hector Muñoz
-  name: Hector-Muñoz
-  subtitle: Program Chair
-  img: hector.png
-  thumbnail: hector.png
-  alt: Picture of Hector Muñoz
-  topic: Hector is a Bayesian and open source enthusiast who enjoys learning how to build models for complex systems.
-  description: Hector is a recent Bioengineering PhD from UCLA.
-    He seeks to solve complex biomedical problems with reproducible statistics and machine learning.
-    He is a Python and Bayesian enthusiast, who tries to think harder about his priors,
-    and seeks to quantify uncertainty and confidence in life.
