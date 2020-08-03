@@ -2,11 +2,11 @@
 - title: Thomas Wiecki
   name: Thomas-Wiecki
   subtitle: Executive
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of Thomas Wiecki
-  topic: Topic
-  description: More Info
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt: Thomas Wiecki
+  topic:
+  description:
 
 - title: Oriol Abril-Pla
   name: Oriol-Abril-Pla
@@ -27,10 +27,10 @@
   subtitle: Marketing Chair
   img: sid.png
   thumbnail: sid.png
-  alt: Picture of Sid Ravinutala
-  topic: Topic
-  description: More Info
-
+  alt: Sid Ravinutala
+  topic:
+  description:
+  
 - title: Hector Muñoz
   name: Hector-Muñoz
   subtitle: Program Chair
@@ -48,48 +48,48 @@
   subtitle: Program Chair
   img: quan.png
   thumbnail: quan.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt:
+  topic:
+  description:
 
 - title: Chris Krapu
   name: Chris Krapu
   subtitle: Program Committee
-  img: chris.jpg
-  thumbnail: chris.jpg
-  alt: Picture of TBD
-  topic: PyMC3 Enthusiast, researcher at Oak Ridge National Laboratory, Tennessee
+  img: chris.png
+  thumbnail: chris.png
+  alt:
+  topic: PyMC3 Enthusiast, Researcher at Oak Ridge National Laboratory, Tennessee
   description: Chris is a recently graduate PhD student specializing in applied spatiotemporal modeling
-    for environmental modeling at Duke University. His past collaborations cover a range of subjects 
+    for environmental modeling at Duke University. His past collaborations cover a range of subjects
     including spatial ecology, econometrics, hydrology and machine learning.
     He is also very excited about the intersection of statistical physics and practical statistical modeling!
-    
+
 - title: Cem
   name: Cem
   subtitle: Volunteer Chair
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt:
+  topic:
+  description:
 
 - title: Colin Carroll
   name: Colin_Carroll
   subtitle: Marketing Committee
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt:
+  topic:
+  description:
 
 - title: Alex Andorra
   name: Alex_Andorra
   subtitle: Volunteer
   img: alex.png
   thumbnail: alex.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt:
+  topic:
+  description:
 
 - title: Ravin Kumar
   name:  Ravin_Kumar
@@ -97,5 +97,5 @@
   img: ravin.png
   thumbnail: ravin.png
   alt: Picture of Ravin Kumar
-  topic: Topic
+  topic:
   description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
