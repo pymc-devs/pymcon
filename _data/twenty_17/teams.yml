@@ -31,14 +31,17 @@
   topic: Topic
   description: More Info
 
-- title: Hector
-  name: Hector
+- title: Hector Muñoz
+  name: Hector-Muñoz
   subtitle: Program Chair
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  img: hector.png
+  thumbnail: hector.png
+  alt: Picture of Hector Muñoz
+  topic: Hector is a Bayesian and open source enthusiast who enjoys learning how to build models for complex systems.
+  description: Hector is a recent Bioengineering PhD from UCLA.
+    He seeks to solve complex biomedical problems with reproducible statistics and machine learning.
+    He is a Python and Bayesian enthusiast, who tries to think harder about his priors,
+    and seeks to quantify uncertainty and confidence in life.
 
 - title: Quan
   name: Quan
