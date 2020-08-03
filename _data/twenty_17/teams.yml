@@ -43,14 +43,16 @@
     He is a Python and Bayesian enthusiast, who tries to think harder about his priors,
     and seeks to quantify uncertainty and confidence in life.
 
-- title: Quan
-  name: Quan
+- title: Quan Nguyen
+  name: Quan Nguyen
   subtitle: Program Chair
   img: quan.png
   thumbnail: quan.png
-  alt:
-  topic:
-  description:
+  alt: Quan's picture
+  topic: Pythonista, PhD student in machine learning
+  description: Quan is a PhD student in computer science whose research is in Bayesian methods in machine learning.
+    He is also deeply interested in Python programming and scientific computing and the author of several Python
+    programming books.
 
 - title: Chris Krapu
   name: Chris Krapu
