@@ -53,14 +53,17 @@
   description: More Info
 
 - title: Chris Krapu
-  name: Chris_Krapu
+  name: Chris Krapu
   subtitle: Program Committee
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: chris.jpg
+  thumbnail: chris.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
+  topic: PyMC3 Enthusiast, researcher at Oak Ridge National Laboratory, Tennessee
+  description: Chris is a recently graduate PhD student specializing in applied spatiotemporal modeling
+    for environmental modeling at Duke University. His past collaborations cover a range of subjects 
+    including spatial ecology, econometrics, hydrology and machine learning.
+    He is also very excited about the intersection of statistical physics and practical statistical modeling!
+    
 - title: Cem
   name: Cem
   subtitle: Volunteer Chair
