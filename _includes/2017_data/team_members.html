@@ -26,6 +26,17 @@
                         <h4>{{ team.title }}</h4>
                         <p class="text-muted">{{ team.subtitle }}</p>
                         <p class="text-muted small">{{ team.topic }}</p>
+                        <ul class="list-inline social-buttons">
+                          {% if team.twitter %}
+                            <li><a href="https://twitter.com/{{ team.twitter }}"><i class="fa fa-twitter"></i></a></li>
+                          {% endif %}
+                          {% if team.github %}
+                            <li><a href="https://github.com/{{ team.github }}"><i class="fa fa-github"></i></a></li>
+                          {% endif %}
+                          {% if team.web %}
+                            <li><a href="{{ team.web }}"><i class="fa fa-link"></i></a></li>
+                          {% endif %}
+                        </ul>
                     </div>
                 </div>
               {% if remainder == 0 %}
