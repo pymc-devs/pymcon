@@ -1,7 +1,10 @@
 
 - title: Thomas Wiecki
   name: Thomas-Wiecki
-  subtitle: Executive
+  subtitle: Executive Chair
+  twitter:
+  github:
+  web:
   img: Pymc4.png
   thumbnail: Pymc4.png
   alt: Thomas Wiecki
@@ -11,29 +14,45 @@
 - title: Oriol Abril-Pla
   name: Oriol-Abril-Pla
   subtitle: Diversity Chair
+  twitter: OriolAbril
+  github: OriolAbril
+  web: https://oriolabril.github.io
   img: oriol.png
   thumbnail: oriol.png
   alt: Picture of Oriol Abril-Pla
   topic: Trying to keep an open yet skeptical mind by contributing to open source software+statistics
-  description: Oriol is a research assistant on Bayesian model selection on generalized linear models
+  description: 'Oriol is a research assistant on Bayesian model selection on generalized linear models
     at Universitat Pompeu Fabra (Barcelona). His work there with David Rossell is available as part
     of the R/C++ package mombf. He is passionate about Bayesian statistics, open science and
     reproducibility. He is an ArviZ core contributor and tries to contribute to the PyData ecosystem
     and the greater Bayesian community. He has just started a blog on Bayesian statistics and open
-    source software at oriolabril.github.io
+    source software at <a href="https://oriolabril.github.io/oriol_unraveled/">oriolabril.github.io</a>'
 
 - title: Sid Ravinutala
   name: Sid_Ravinutala
   subtitle: Marketing Chair
+  twitter: sid_ravinutala
+  github: sidravi1
+  web: https://sidravi1.github.io
   img: sid.png
   thumbnail: sid.png
   alt: Sid Ravinutala
-  topic:
-  description:
-  
+  topic: International Development. Statistics/data science for international development. Sounds more confident than he is.
+  description: "As Director, Sid provides technical and thought leadership within the data science team. He is responsible for growing the data science capability within IDinsight, and oversees the design and development of all data science projects.
+
+Prior to joining IDinsight, Sid worked as a data scientist at QuantumBlack, McKinsey’s advanced analytics arm; Coles, a supermarket chain in Australia; and the Center for International Development at Harvard. He worked in public health for the Clinton Health Access Initiative where he helped countries scale access to diagnostics, and developed global forecasts to inform pricing negotiations for sub-Saharan Africa. Sid enjoys using a wide range of statistical methods to inform policy, and recently discovered that he is a closet Bayesian. His previous projects have involved large-scale predictive analytics, optimisation, and Bayesian inference.
+
+Sid holds a bachelor’s degree in Computer Science and Electrical Engineering from the University of Melbourne, and an MPA in International Development (MPA/ID) from Harvard Kennedy School. He speaks English, Hindi, and Telugu.
+
+Sid was born in New Delhi and did a large share of his growing up in Melbourne. He has lived and worked in a number of developing countries, including Uganda, Ghana, India, and Papua New Guinea. He now lives in Boston with his wife and spends his evenings chasing after his two toddlers."
+
+
 - title: Hector Muñoz
   name: Hector-Muñoz
   subtitle: Program Chair
+  twitter: hectoremunoz
+  github: hectormz
+  web:
   img: hector.png
   thumbnail: hector.png
   alt: Picture of Hector Muñoz
@@ -46,18 +65,24 @@
 - title: Quan
   name: Quan
   subtitle: Program Chair
+  twitter:
+  github: KrisNguyen135
+  web: https://krisnguyen135.github.io
   img: quan.png
   thumbnail: quan.png
-  alt:
-  topic:
-  description:
+  alt: Picture of Quan
+  topic: Someone with very flat priors
+  description: Quan is a programming enthusiast with a background in mathematics and statistics. His past projects include Python programming books such as The Statistics and Calculus Workshop and Hands-on Application Development with PyCharm. Quan is currently a Ph.D. student in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
 
 - title: Chris Krapu
   name: Chris Krapu
   subtitle: Program Committee
+  twitter:
+  github: ckrapu
+  web:
   img: chris.png
   thumbnail: chris.png
-  alt:
+  alt: Picture of Chris Krapu
   topic: PyMC3 Enthusiast, Researcher at Oak Ridge National Laboratory, Tennessee
   description: Chris is a recently graduate PhD student specializing in applied spatiotemporal modeling
     for environmental modeling at Duke University. His past collaborations cover a range of subjects
@@ -67,15 +92,21 @@
 - title: Cem
   name: Cem
   subtitle: Volunteer Chair
+  twitter:
+  github: ctabakci
+  web:
   img: Pymc4.png
   thumbnail: Pymc4.png
-  alt:
-  topic:
-  description:
+  alt: Picture of Cem
+  topic: Opens to any kind of knowledge and believes asking questions helps to solve most of the problems
+  description: Cem is currently pursuing a cognitive neuroscience master’s degree. His studies mainly focused on neuroimaging techniques. He is interested in computational neuroscience and Bayesian statistics. He finished his bachelor’s degree in psychology at Yeditepe University (Istanbul).
 
 - title: Colin Carroll
   name: Colin_Carroll
   subtitle: Marketing Committee
+  twitter:
+  github:
+  web:
   img: Pymc4.png
   thumbnail: Pymc4.png
   alt:
@@ -84,18 +115,24 @@
 
 - title: Alex Andorra
   name: Alex_Andorra
-  subtitle: Volunteer
+  subtitle: Diversity Chair
+  twitter: alex_andorra
+  github: AlexAndorra
+  web: https://learnbayesstats.anvil.app
   img: alex.png
   thumbnail: alex.png
-  alt:
-  topic:
-  description:
+  alt: Picture of Alex
+  topic: ArviZ & PyMC Dev, Host of 'Learning Bayesian Statistics' Podcast 🎙️, Loves studying human behavior, Open source & Nutella enthusiast
+  description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com. By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ. Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”. Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics. He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
 
 - title: Ravin Kumar
   name:  Ravin_Kumar
-  subtitle: Executive
+  subtitle: Executive Chair
+  twitter: canyon289
+  github: canyon289
+  web: http://canyon289.github.io
   img: ravin.png
   thumbnail: ravin.png
   alt: Picture of Ravin Kumar
-  topic:
-  description: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
+  topic: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
+  description: Ravin Kumar is a senior engineer that uses data and statistics to inform humans decision making from C Suite long term strategy to ground floor “in the moment” choices. Ravin is (likely) a big proponent of Bayesian statistics and is Core Contributor to PyMC3 and ArviZ. Both are Open Source projects that strive to make Bayesian methods accessible and easy to use and for anybody. Ravin also helps plan community conferences such as PyDataLA, and enjoys building people up as much as he enjoys building code.

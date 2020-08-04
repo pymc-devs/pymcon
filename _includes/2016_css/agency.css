@@ -347,7 +347,7 @@ header {
     background-image: url('{{ "./img/header-bg.jpg" }}');
 */
     color: #ddd;
-    background-attachment: scroll; 
+    background-attachment: scroll;
     background-image: url('{{ "./img/header-bg-trajectories.jpg" }}');
     /* background-image: url('{{ site.project_name }}/css/2016_style/img/header-bg.jpg'); */
     background-position: center center;
@@ -436,19 +436,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#speakers .speakers-item {
+.speakers-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#speakers .speakers-item .speakers-link {
+.speakers-item .speakers-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover {
+.speakers-item .speakers-link .speakers-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -459,11 +459,11 @@ section h3.section-subheading {
     background: #{{ site.data.template.color.primary }};
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover:hover {
+.speakers-item .speakers-link .speakers-hover:hover {
     opacity: 1;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
+.speakers-item .speakers-link .speakers-hover .speakers-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -474,16 +474,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
+.speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
     margin-top: -12px;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h3,
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h4 {
+.speakers-item .speakers-link .speakers-hover .speakers-hover-content h3,
+.speakers-item .speakers-link .speakers-hover .speakers-hover-content h4 {
     margin: 0;
 }
 
-#speakers .speakers-item .speakers-caption {
+.speakers-item .speakers-caption {
     margin: 0 auto;
     padding-top: 25px;
     padding-bottom: 5px;
@@ -493,7 +493,7 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#speakers .speakers-item .speakers-caption h4 {
+.speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
 }
@@ -507,12 +507,12 @@ section h3.section-subheading {
 }
 */
 
-#speakers * {
+#speakers *, #organizers * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #speakers .speakers-item {
+    .speakers-item {
         margin: 0 0 30px;
     }
 }

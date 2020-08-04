@@ -16,6 +16,16 @@
                             <p class="text-muted">{{ team.subtitle }}</p>
                             <hr class="star-primary">
                             <img src="./css/2017_style/img/team/{{ team.img }}" class="img-responsive img-centered" alt="{{ team.alt }}">
+
+                            {% if team.twitter %}
+                              <p><b>Twitter:</b> <a href="https://twitter.com/{{ team.twitter }}">@{{ team.twitter }}</a></p>
+                            {% endif %}
+                            {% if team.twitter %}
+                              <p><b>GitHub:</b> <a href="https://github.com/{{ team.github }}">{{ team.github }}</a></p>
+                            {% endif %}
+                            {% if team.web %}
+                              <p><b>Personal website:</b> <a href="{{ team.web }}">{{ team.web | split:'//' | last }}</a></p>
+                            {% endif %}
                             <p>{{ team.description }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
