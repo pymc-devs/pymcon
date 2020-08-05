@@ -104,14 +104,14 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
 - title: Colin Carroll
   name: Colin_Carroll
   subtitle: Marketing Committee
-  twitter:
-  github:
-  web:
-  img: Pymc4.png
-  thumbnail: Pymc4.png
-  alt:
-  topic:
-  description:
+  twitter: colindcarroll
+  github: ColCarroll
+  web: https://colindcarroll.com/
+  img: colin.png
+  thumbnail: colin.png
+  alt: Picture of Colin
+  topic: Colin is a contributor to PyMC3 and ArviZ. He is enthusiastic about open source science, data visualization, and his small dog Pete.
+  description: Colin is a software engineer at Google Research Cambridge. He is interested in statistical computing and visualization, particularly as related to Bayesian methods. He is heavily involved in open source: a core contributor to PyMC3, a Python library for Bayesian modelling and inference, as well as ArviZ, a Bayesian visualization and diagnostic library. He received his PhD in mathematics from Rice University, where he researched geometric measure theory.
 
 - title: Alex Andorra
   name: Alex_Andorra
