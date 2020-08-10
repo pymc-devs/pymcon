@@ -113,8 +113,9 @@ aside.clients,
     background-color: #222;
 }
 
-.btn-mr-10 {
+.btn-margins {
     margin-right: 10px;
+    margin-top: 5px;
 }
 
 .btn-primary {
