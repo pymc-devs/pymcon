@@ -1,3 +1,14 @@
+- title: Ravin Kumar
+  name:  Ravin_Kumar
+  subtitle: Executive Chair
+  twitter: canyon289
+  github: canyon289
+  web: http://canyon289.github.io
+  img: ravin.png
+  thumbnail: ravin.png
+  alt: Picture of Ravin Kumar
+  topic: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
+  description: Ravin Kumar is a senior engineer that uses data and statistics to inform humans decision making from C Suite long term strategy to ground floor “in the moment” choices. Ravin is (likely) a big proponent of Bayesian statistics and is Core Contributor to PyMC3 and ArviZ. Both are Open Source projects that strive to make Bayesian methods accessible and easy to use and for anybody. Ravin also helps plan community conferences such as PyDataLA, and enjoys building people up as much as he enjoys building code.
 
 - title: Thomas Wiecki
   name: Thomas-Wiecki
@@ -124,15 +135,3 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
   alt: Picture of Alex
   topic: ArviZ & PyMC Dev, Host of 'Learning Bayesian Statistics' Podcast 🎙️, Loves studying human behavior, Open source & Nutella enthusiast
   description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com. By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ. Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”. Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics. He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
-
-- title: Ravin Kumar
-  name:  Ravin_Kumar
-  subtitle: Executive Chair
-  twitter: canyon289
-  github: canyon289
-  web: http://canyon289.github.io
-  img: ravin.png
-  thumbnail: ravin.png
-  alt: Picture of Ravin Kumar
-  topic: Ravin is a proponent of open source, but more importantly open knowledge and the communities that surround them.
-  description: Ravin Kumar is a senior engineer that uses data and statistics to inform humans decision making from C Suite long term strategy to ground floor “in the moment” choices. Ravin is (likely) a big proponent of Bayesian statistics and is Core Contributor to PyMC3 and ArviZ. Both are Open Source projects that strive to make Bayesian methods accessible and easy to use and for anybody. Ravin also helps plan community conferences such as PyDataLA, and enjoys building people up as much as he enjoys building code.
