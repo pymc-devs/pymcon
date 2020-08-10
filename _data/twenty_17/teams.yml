@@ -2,14 +2,19 @@
 - title: Thomas Wiecki
   name: Thomas-Wiecki
   subtitle: Executive Chair
-  twitter:
-  github:
-  web:
-  img: Pymc4.png
-  thumbnail: Pymc4.png
+  twitter: twiecki
+  github: twiecki
+  web: https://twiecki.io
+  img: twiecki.jpg
+  thumbnail: twiecki.jpg
   alt: Thomas Wiecki
-  topic:
-  description:
+  topic: Advocate for Bayesian methods and probabilistic programming
+  description: 'Thomas discovered the power of Bayesian statistics during his PhD at Brown University
+    where it provided an invaluable tool in building computational models of the human brain to deepen
+    our understanding of psychiatric illnesses. After his PhD he spent several years at Quantopian as
+    the VP of Data Science to lead their research efforts in building the world's first crowd-sourced
+    hedge fund. These days he is building a PyMC consultancy as well as developing an 
+    <a href="https://twiecki.io/pages/an-intuitive-guide-to-bayesian-statistics.html">intuitions-first course on Bayesian statistics</a>.'
 
 - title: Oriol Abril-Pla
   name: Oriol-Abril-Pla
