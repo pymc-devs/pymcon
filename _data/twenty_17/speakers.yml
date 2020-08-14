@@ -1,26 +1,35 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Chris Fonnesbeck
+  name: chris-fonnesbeck
+  subtitle: Keynote speaker
+  twitter: fonnesbeck
+  github: fonnesbeck
+  web:
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt: Chris
+  topic:
+  description:
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Viola Priesemann
+  name: viola-priesemann
+  subtitle: Keynote speaker
+  twitter: violapriesemann
+  github: vpriesem
+  web: http://www.viola-priesemann.de/
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt: Viola
+  topic:
+  description:
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Aki Vehtari
+  name: aki-vehtari
+  subtitle: Keynote speaker
+  twitter: avehtari
+  github: avehtari
+  web: https://users.aalto.fi/~ave/
+  img: Pymc4.png
+  thumbnail: Pymc4.png
+  alt: Aki
+  topic:
+  description:

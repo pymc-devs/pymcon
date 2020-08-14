@@ -8,21 +8,41 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.data.twenty_17.speakers %}
+            {% for speaker in site.data.twenty_17.speakers %}
+               {% assign remainder = forloop.index | modulo: 3 %}
+               {% if remainder == 0 %}
+                  <div class="row">
+                {% endif %}
                 <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+                    <a href="#{{ speaker.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
                             <div class="speakers-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="./css/2017_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <h4>{{ speaker.title }}</h4>
+                        <p class="text-muted">{{ speaker.subtitle }}</p>
+                        <p class="text-muted small">{{ speaker.topic }}</p>
+                        <ul class="list-inline social-buttons">
+                          {% if speaker.twitter %}
+                            <li><a href="https://twitter.com/{{ speaker.twitter }}"><i class="fa fa-twitter"></i></a></li>
+                          {% endif %}
+                          {% if speaker.github %}
+                            <li><a href="https://github.com/{{ speaker.github }}"><i class="fa fa-github"></i></a></li>
+                          {% endif %}
+                          {% if speaker.web %}
+                            <li><a href="{{ speaker.web }}"><i class="fa fa-link"></i></a></li>
+                          {% endif %}
+                        </ul>
                     </div>
                 </div>
+              {% if remainder == 0 %}
+              </div>
+             {% endif %}
+
             {% endfor %}
             </div>
         </div>
