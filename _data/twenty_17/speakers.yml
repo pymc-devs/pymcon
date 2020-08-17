@@ -1,26 +1,35 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Chris Fonnesbeck
+  name: chris-fonnesbeck
+  subtitle: Keynote speaker and PyMC BDFL
+  twitter: fonnesbeck
+  github: fonnesbeck
+  web:
+  img: Fonnesbeck.png
+  thumbnail: Fonnesbeck.png
+  alt: Chris
+  topic:
+  description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees. He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis. He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+#- title: Viola Priesemann
+#  name: viola-priesemann
+#  subtitle: Keynote speaker
+#  twitter: violapriesemann
+#  github: vpriesem
+#  web: http://www.viola-priesemann.de/
+#  img: Pymc4.png
+#  thumbnail: Pymc4.png
+#  alt: Viola
+#  topic:
+#  description:
+#
+#- title: Aki Vehtari
+#  name: aki-vehtari
+#  subtitle: Keynote speaker
+#  twitter: avehtari
+#  github: avehtari
+#  web: https://users.aalto.fi/~ave/
+#  img: Pymc4.png
+#  thumbnail: Pymc4.png
+#  alt: Aki
+#  topic:
+#  description:
