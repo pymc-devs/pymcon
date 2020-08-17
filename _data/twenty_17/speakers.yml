@@ -1,11 +1,11 @@
 - title: Chris Fonnesbeck
   name: chris-fonnesbeck
-  subtitle: Keynote speaker
+  subtitle: Keynote speaker and PyMC BDFL
   twitter: fonnesbeck
   github: fonnesbeck
   web:
-  img: Pymc4.png
-  thumbnail: Pymc4.png
+  img: Fonnesbeck.png
+  thumbnail: Fonnesbeck.png
   alt: Chris
   topic:
   description:
