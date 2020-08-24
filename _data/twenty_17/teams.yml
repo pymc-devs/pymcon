@@ -100,17 +100,17 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
     including spatial ecology, econometrics, hydrology and machine learning.
     He is also very excited about the intersection of statistical physics and practical statistical modeling!
 
-- title: Cem
-  name: Cem
+- title: Cem Tabakci
+  name: Cem Tabakci
   subtitle: Volunteer Chair
-  twitter:
+  twitter: cemtabakci
   github: ctabakci
   web:
-  img: Pymc4.png
-  thumbnail: Pymc4.png
+  img: cem.png
+  thumbnail: cem.png
   alt: Picture of Cem
   topic: Opens to any kind of knowledge and believes asking questions helps to solve most of the problems
-  description: Cem is currently pursuing a cognitive neuroscience master’s degree. His studies mainly focused on neuroimaging techniques. He is interested in computational neuroscience and Bayesian statistics. He finished his bachelor’s degree in psychology at Yeditepe University (Istanbul).
+  description: Cem is currently pursuing a cognitive neuroscience master’s degree at Sapienza - University of Rome (Rome). His studies mainly focused on neuroimaging techniques. He is interested in computational neuroscience and Bayesian statistics. He finished his bachelor’s degree in psychology at Yeditepe University (Istanbul).
 
 - title: Colin Carroll
   name: Colin_Carroll
