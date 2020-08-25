@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 # Config:
 images_dir = "../css/2017_style/img/team/"
-result_grid_filename = "./team_mosaic.png"
-result_figsize_resolution = 40  # 1 = 100px
+result_grid_filename = "./team.png"
+result_figsize_resolution = 2  # 1 = 100px
 
 images_list = [
     img for img in os.listdir(images_dir) if img not in {"Pymc4.png", "TBD.jpg"}
