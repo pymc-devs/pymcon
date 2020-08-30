@@ -15,6 +15,7 @@ include: ['_2016_pages', '_2017_pages']
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-datapage-generator
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -28,3 +29,11 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+page_gen-dirs: false
+
+page_gen:
+- data: 'speakers'
+  template: 'speaker'
+  dir: ''
+  name: 'name'

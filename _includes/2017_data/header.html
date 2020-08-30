@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="{{ site.url }}"><img src="./css/2017_style/img/logo-small-transparent.png" style="margin-top:-15px" width="140px" alt="icon-about"></a>
+                <a class="navbar-brand page-scroll" href="{{ site.url }}"><img src="{{ "/css/2017_style/img/logo-small-transparent.png" | absolute_url }}" style="margin-top:-15px" width="140px" alt="icon-about"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -19,21 +19,21 @@
                         <a href="/"></a>
                     </li>
                     <li>
-                        <a href="./cfp">CFP</a>
+                      <a href="{{ "./cfp" | absolute_url }}">CFP</a>
                     </li>
                     <li>
-                        <a href="./#speakers">Speakers</a>
+                      <a href="{{ "./#speakers" | absolute_url }}">Speakers</a>
                     </li>
                     <li>
-                        <a href="./#organizers">Organizers</a>
+                        <a href="{{ "./#organizers" | absolute_url }}">Organizers</a>
                     </li>
                     <li>
-                        <a href="./#contact">Contact</a>
+                        <a href="{{ "./#contact" | absolute_url }}">Contact</a>
                     </li>
                     <li>
                         <!-- Hard coding because I cant figure out the base url and its late            -->
                         <!--                        <a href="{{prepend: site.baseurl}}/cfp">CFP</a>-->
-                        <a href="./code_of_conduct">Code of Conduct</a>
+                        <a href="{{ "./code_of_conduct" | absolute_url }}">Code of Conduct</a>
                     </li>
                 </ul>
             </div>

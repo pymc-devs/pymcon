@@ -4,7 +4,7 @@
   twitter: fonnesbeck
   github: fonnesbeck
   web:
-  img: Fonnesbeck.png
+  image: Fonnesbeck.png
   thumbnail: Fonnesbeck.png
   alt: Chris
   topic:
@@ -16,7 +16,7 @@
   twitter: violapriesemann
   github: vpriesem
   web: http://www.viola-priesemann.de/
-  img: Viola.jpg
+  image: Viola.jpg
   thumbnail: Viola.jpg
   alt: Viola
   topic:
@@ -28,7 +28,7 @@
 #  twitter: avehtari
 #  github: avehtari
 #  web: https://users.aalto.fi/~ave/
-#  img: Pymc4.png
+#  image: Pymc4.png
 #  thumbnail: Pymc4.png
 #  alt: Aki
 #  topic:

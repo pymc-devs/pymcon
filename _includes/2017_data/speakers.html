@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for speaker in site.data.twenty_17.speakers %}
+            {% for speaker in site.data.speakers %}
                {% assign remainder = forloop.index | modulo: 3 %}
                {% if remainder == 0 %}
                   <div class="row">
