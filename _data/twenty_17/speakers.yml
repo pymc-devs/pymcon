@@ -10,18 +10,18 @@
   topic:
   description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees. He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis. He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
 
-#- title: Viola Priesemann
-#  name: viola-priesemann
-#  subtitle: Keynote speaker
-#  twitter: violapriesemann
-#  github: vpriesem
-#  web: http://www.viola-priesemann.de/
-#  img: Pymc4.png
-#  thumbnail: Pymc4.png
-#  alt: Viola
-#  topic:
-#  description:
-#
+- title: Viola Priesemann
+  name: viola-priesemann
+  subtitle: Keynote speaker
+  twitter: violapriesemann
+  github: vpriesem
+  web: http://www.viola-priesemann.de/
+  img: Viola.jpg
+  thumbnail: Viola.jpg
+  alt: Viola
+  topic:
+  description:
+
 #- title: Aki Vehtari
 #  name: aki-vehtari
 #  subtitle: Keynote speaker
@@ -33,3 +33,5 @@
 #  alt: Aki
 #  topic:
 #  description:
+
+# files in css/2017_style/img
