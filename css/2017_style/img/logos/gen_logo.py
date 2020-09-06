@@ -145,7 +145,7 @@ if __name__ == "__main__":
     kwargs.pop("y")
     kwargs["color"] = light
     kwargs["ha"] = "center"
-    text = ax.text(0.0, -0.88, "2020", **kwargs)
+    text = ax.text(0.0, -0.83, "2020", **kwargs)
     text.set_path_effects(
         [path_effects.Stroke(linewidth=12, foreground=dark), path_effects.Normal()]
     )
