@@ -83,9 +83,9 @@ if __name__ == "__main__":
     # Density stuff #
     #################
     def logp(t):
-        rv1 = st.norm(0.7, 0.1)
+        rv1 = st.norm(0.7, 0.2)
         rv2 = st.norm(-0.5, 0.3)
-        rv3 = st.norm(0.1, 0.1)
+        rv3 = st.norm(0.1, 0.15)
         return 0.2 * rv1.pdf(t) + 0.5 * rv2.pdf(t) + 0.3 * rv3.pdf(t)
 
     θ_part = θ[500:]
