@@ -2,11 +2,15 @@ title: "PyMCON 2020"
 description: > # this means to ignore newlines until "baseurl:"
   An asynchronous-first virtual conference for the Bayesian community.
 
-url: "https://pymc-devs.github.io/pymcon" # the base hostname & protocol for your site
+
+url: "http://pymc-devs.github.io/pymcon" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 project_name: pymcon
+# Build settings
+markdown: kramdown
 
-logo: "./assets/contact.png"
+logo: "../css/2017_style/img/logos/pymcon_logo.png"
+
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -30,6 +34,7 @@ social:
 markdown: kramdown
 permalink: pretty
 
+<<<<<<< HEAD
 page_gen-dirs: false
 
 page_gen:
@@ -37,3 +42,13 @@ page_gen:
   template: 'speaker'
   dir: ''
   name: 'name'
+=======
+# Front Matter Defaults
+# see https://jekyllrb.com/docs/configuration/front-matter-defaults/
+defaults:
+  # _posts
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: "{{ 'css/2017_style/img/logos/pymcon_logo.png' | absolute_url }}"
+>>>>>>> update config to use logo
