@@ -61,8 +61,9 @@ if __name__ == "__main__":
     font_file = get_google_font("Oswald-Bold")
     prop = fm.FontProperties(fname=font_file.name)
     np.random.seed(0)
-    fig, ax = plt.subplots(figsize=(12, 12))
+    fig= plt.figure(1, figsize=(12, 12))
     fig.set_dpi(144)
+    ax = fig.add_axes([0, 0, 1, 1])
     r_ = 0.96
     θ = np.linspace(0, 2 * np.pi, 1000)
 
