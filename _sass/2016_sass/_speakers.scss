@@ -3,6 +3,8 @@
     margin: 100px 15vw 60px 15vw;
     img {
         width: 100%;
+        max-width: 100px;
+        margin-top: 100px;
     }
     a {
         color: darkblue;
@@ -16,6 +18,11 @@
     }
     p, ol {
         font-size: 110%;
+    }
+
+    table.center {
+        margin-left:auto; 
+        margin-right:auto;
     }
     h1 {
         text-shadow: 2px 2px black;
@@ -45,6 +52,7 @@
             font-size: 110%;
         }
     }
+
 }
 
 @media screen and (max-width : 1200px){

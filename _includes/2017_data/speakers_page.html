@@ -1,0 +1,59 @@
+<!-- Portfolio Grid Section -->
+    <section id="speakers" class="speakers">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading" style="width:100%">Speakers</h2>
+                <h3></h3>
+            </div>
+        <div class="table-responsive">
+            <table class="table table-hover " style = "width:90%; margin-left:auto; margin-right:auto;">
+          <thead class="thead-dark" style="text-align:center">
+            <tr>
+              <th scope="col">Speakers</th>
+              <th scope="col">Description</th>
+              <th scope="col">Proposal Type</th>
+              <th scope="col">Track</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for speaker in site.data.speakers %}
+            <tr class = "table table-light">
+                <td>
+                    <div>
+                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}" 
+                        style="max-width: 200px; margin-top: 30px" class="img-responsive img-centered" alt="">
+                    </div>
+                    <div class="row">
+                        <div class="speakers-caption"  style="text-align:center">
+                        <h3>{{ speaker.title }}</h3>
+                        <ul class="list-inline social-buttons">
+                          {% if speaker.twitter %}
+                            <li><a href="https://twitter.com/{{ speaker.twitter }}"><i class="fa fa-twitter"></i></a></li>
+                          {% endif %}
+                          {% if speaker.github %}
+                            <li><a href="https://github.com/{{ speaker.github }}"><i class="fa fa-github"></i></a></li>
+                          {% endif %}
+                          {% if speaker.web %}
+                            <li><a href="{{ speaker.web }}"><i class="fa fa-link"></i></a></li>
+                          {% endif %}
+                        </ul>
+                    </div>
+                    </div>
+                </td>
+                <td style="max-width:300px">
+                    <p class="text-muted">{{ speaker.subtitle }}</p>
+                    <p class="text-muted small">{{ speaker.description }}</p>
+                </td>
+                <td style="text-align:center;">
+                    <p class="text-muted small">{{ speaker.presentation_type }}</p>
+                </td>
+                <td style="text-align:center;">
+                    <p class="text-muted small">{{ speaker.track }}</p>
+                </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        </div>
+        </div>
+    </section>
