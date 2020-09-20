@@ -1,7 +1,8 @@
 <h2>{{ page.title }}</h2>
 <p class="text-muted">{{ page.subtitle }}</p>
 <hr class="star-primary">
-<img src="{{ "./css/2017_style/img/speakers/speaker_image" | replace: 'speaker_image', page.image | absolute_url }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+<img src="{{ "./css/2017_style/img/speakers/speaker_image" | replace: 'speaker_image', 
+                page.image | absolute_url }}" class="img-responsive img-centered" alt="{{ page.alt }}">
 
 {% if page.twitter %}
   <p><b>Twitter:</b> <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>
