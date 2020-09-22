@@ -135,3 +135,15 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
   alt: Picture of Alex
   topic: ArviZ & PyMC Dev, Host of 'Learning Bayesian Statistics' Podcast 🎙️, Loves studying human behavior, Open source & Nutella enthusiast
   description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com. By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ. Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”. Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics. He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
+
+- title: Maria Gorinova
+  name: Maria_Gorinova
+  subtitle: Reviewer
+  twitter: migorinova
+  github: mgorinova
+  web: https://homepages.inf.ed.ac.uk/s1207807
+  img: maria.jpg
+  thumbnail: maria.jpg
+  alt: Picture of Maria
+  topic: Probabilistic Programming PhD student at University of Edinburgh
+  description: Probabilistic Programming PhD student at University of Edinburgh
