@@ -9,7 +9,11 @@
   alt: Chris
   topic:
   description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees. He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis. He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
+  proposal_summary:
+  discourse_link:
+  youtube_link:
   presentation_type: Keynote
+  time_zone:
   track: All
 
 - title: Viola Priesemann
@@ -23,7 +27,11 @@
   alt: Viola
   topic:
   description: Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization. She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation. With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies. Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg.
+  proposal_summary:
+  discourse_link:
+  youtube_link:
   presentation_type: Keynote
+  time_zone:
   track: All
 
 - title: Aki Vehtari
@@ -38,8 +46,11 @@
 #  thumbnail: Aki_Large.jpg
   alt: Aki
   topic:
-  description:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
   presentation_type: Keynote
+  time_zone:
   track: All
 
 # files in css/2017_style/img
