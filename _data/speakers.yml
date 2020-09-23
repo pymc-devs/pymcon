@@ -209,4 +209,23 @@
   time_zone:
   track: Advanced
 
+- title: Ali Akbar Septiandri
+  name: ali-akbar-septiandri
+  subtitle: Speaker
+  twitter: aliakbars
+  github:
+  web:
+  image: ali-akbar-septiandri.jpg
+  thumbnail: ali-akbar-septiandri.jpg
+  alt: Ali
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: A data scientist and a lecturer.
+    Learning/teaching data science, machine learning, and artificial intelligence.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 # files in css/2017_style/img
