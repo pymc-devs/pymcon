@@ -69,4 +69,24 @@
   time_zone:
   track: Advanced
 
+- title: Matthijs Brouns
+  name: matthijs-brouns
+  subtitle: Speaker
+  twitter: MatthijsBrs
+  github: mbrouns
+  web: https://www.linkedin.com/in/mbrouns/
+  image: matthijs-brounds.jpeg
+  thumbnail: matthijs-brounds.jpeg
+  alt: Matthijs
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Matthijs spends a fair amount of time contributing to our open scientific computing ecosystem through various means.
+    He maintains open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup.
+    His current work involves training junior data scientists at Xccelerated.io.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
