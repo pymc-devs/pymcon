@@ -150,4 +150,23 @@
   time_zone:
   track: Beginner
 
+- title: Mikkel Lykkegaard
+  name: mikkel-lykkegaard
+  subtitle: Speaker
+  twitter: 
+  github:
+  web: http://emps.exeter.ac.uk/engineering/staff/ml624
+  image: Mikkel_Lykkegaard.JPG
+  thumbnail: Mikkel_Lykkegaard.JPG
+  alt: Mikkel
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and Centre for Water Systems (CWS) at University of Exeter.
+    His research is mainly concerned with Uncertainty Quantification (UQ) for computationally intensive forward models.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
