@@ -47,4 +47,26 @@
   presentation_type: Keynote
   track: All
 
+- title: Alex Andorra
+  name: alex-andorra
+  subtitle: Speaker
+  twitter: alex_andorra
+  github: AlexAndorra
+  web:
+  image: alex.png
+  thumbnail: alex.png
+  alt: Alex
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com.
+    By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ.
+    Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”.
+    Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics.
+    He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
