@@ -8,7 +8,9 @@
   thumbnail: Fonnesbeck.png
   alt: Chris
   topic:
-  description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees. He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis. He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
+  description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees.
+    He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis.
+    He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -26,7 +28,10 @@
   thumbnail: Viola.jpg
   alt: Viola
   topic:
-  description: Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization. She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation. With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies. Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg.
+  description: Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization.
+    She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation.
+    With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies.
+    Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg.
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -52,5 +57,247 @@
   presentation_type: Keynote
   time_zone:
   track: All
+
+- title: Alex Andorra
+  name: alex-andorra
+  subtitle: Speaker
+  twitter: alex_andorra
+  github: AlexAndorra
+  web:
+  image: alex.png
+  thumbnail: alex.png
+  alt: Alex
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com.
+    By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ.
+    Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”.
+    Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics.
+    He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
+- title: Matthijs Brouns
+  name: matthijs-brouns
+  subtitle: Speaker
+  twitter: MatthijsBrs
+  github: mbrouns
+  web: https://www.linkedin.com/in/mbrouns/
+  image: matthijs-brounds.jpeg
+  thumbnail: matthijs-brounds.jpeg
+  alt: Matthijs
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Matthijs spends a fair amount of time contributing to our open scientific computing ecosystem through various means.
+    He maintains open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup.
+    His current work involves training junior data scientists at Xccelerated.io.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
+- title: Cameron Davidson-Pilon
+  name: cameron-davidson-pilon
+  subtitle: Speaker
+  twitter: cmrn_dp
+  github:
+  web:
+  image: cameron-davidson-pilon.jpg
+  thumbnail: cameron-davidson-pilon.jpg
+  alt: Cameron
+  topic:
+  proposal_summary:
+  discourse_link: 
+  youtube_link:
+  description: Cameron Davidson-Pilon has worked in many areas of applied statistics, from the evolutionary dynamics of genes to modeling of financial prices.
+    His contributions to the community include lifelines, an implementation of survival analysis in Python, lifetimes, and Bayesian Methods for Hackers, an open source book & printed book on Bayesian analysis.
+    Formally Director of Data Science at Shopify, Cameron is now applying data science to food microbiology.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
+- title: Tim Dodwell
+  name: tim-dodwell
+  subtitle: Speaker
+  twitter: proftimdodwell
+  github:
+  web: https://www.datacentricengineering.co.uk/team.html
+  image: TimDodwell.jpg
+  thumbnail: TimDodwell.jpg
+  alt: Tim
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter,
+    is the Romberg Visiting at Heidelberg in Scientific Computing
+    and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead. 
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Allen Downey
+  name: allen-downey
+  subtitle: Speaker
+  twitter: allendowney
+  github: AllenDowney
+  web: allendowney.com
+  image: downey_photo_med.jpg
+  thumbnail: downey_photo_med.jpg
+  alt: Allen
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Allen Downey is a professor of Computer Science at Olin College and Visiting Lecturer at Ashesi University in Ghana.
+    He is the author of a series of open-source textbooks related to software and data science, including Think Python, Think Bayes, and Think Complexity, which are also published by O’Reilly Media.
+    His blog, Probably Overthinking It, features articles on Bayesian probability and statistics.
+    He holds a Ph.D. in computer science from U.C. Berkeley, and M.S. and B.S. degrees from MIT.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
+- title: Mikkel Lykkegaard
+  name: mikkel-lykkegaard
+  subtitle: Speaker
+  twitter: 
+  github:
+  web: http://emps.exeter.ac.uk/engineering/staff/ml624
+  image: Mikkel_Lykkegaard.JPG
+  thumbnail: Mikkel_Lykkegaard.JPG
+  alt: Mikkel
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and Centre for Water Systems (CWS) at University of Exeter.
+    His research is mainly concerned with Uncertainty Quantification (UQ) for computationally intensive forward models.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Grigorios Mingas
+  name: grigorios-mingas
+  subtitle: Speaker
+  twitter:
+  github: gmingas
+  web:
+  image: GrigoriosMingas_Photo.jpg
+  thumbnail: GrigoriosMingas_Photo.jpg
+  alt: Grigorios
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dr. Grigorios Mingas is a Senior Research Data Scientist at The Alan Turing Institute.
+    He received his PhD from Imperial College London, where he co-designed MCMC algorithms and hardware to accelerate Bayesian inference.
+    He has experience in a wide range of projects as a data scientist.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Quan Nguyen
+  name: quan-nguyen
+  subtitle: Speaker
+  twitter: 
+  github: KrisNguyen135
+  web: https://krisnguyen135.github.io/ 
+  image: quan.png
+  thumbnail: quan.png
+  alt: Quan
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Quan is a Bayesian statistics enthusiast (and a programmer at heart).
+    He is the author of several programming books on Python and scientific programming.
+    Quan is currently pursuing a Ph.D. in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Ali Akbar Septiandri
+  name: ali-akbar-septiandri
+  subtitle: Speaker
+  twitter: aliakbars
+  github:
+  web:
+  image: ali-akbar-septiandri.jpg
+  thumbnail: ali-akbar-septiandri.jpg
+  alt: Ali
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: A data scientist and a lecturer.
+    Learning/teaching data science, machine learning, and artificial intelligence.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Evdoxia Taka
+  name: evdoxia-taka
+  subtitle: Speaker
+  twitter: evdoxiataka
+  github: evdoxiataka
+  web:
+  image: Evdoxia.jpg
+  thumbnail: Evdoxia.jpg
+  alt: Evdoxia
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Evdoxia is a PhD student at the School of Computing Science of University of Glasgow since 2019.
+    Her research focuses on the creation of novel representations of probabilistic models that incorporate animation and interaction for a more intuitive communication of the uncertainty in the variables of probabilistic models.
+    She became a Python and Bayesian enthusiast ever since she started her PhD and she got a foot in the door of a whole new-to-her, but very charming world.
+    Evdoxia completed her undergraduate and master studies in the Aristotle University of Thessaloniki, Greece as Electrical and Computer Engineer.
+    She worked as a Research Assistant at the Centre for Research & Technology Hellas in Thessaloniki contributing to various national- and EU-funded research projects in areas such as computer vision, 3D reconstruction and simulation, machine learning.
+    She has also worked as a Research Database Engineer for the HCV Research UK project at the Centre for Virus Research of the University of Glasgow.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Vincent D. Warmerdam
+  name: vincent-warmerdam
+  subtitle: Speaker
+  twitter: fishnets88
+  github: koaning
+  web: koaning.io/calmcode.io
+  image: vincent-warmerdam.jpeg
+  thumbnail: vincent-warmerdam.jpeg
+  alt: Vincent
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Vincent likes to spend his days debunking hype in ML.
+    He started a few open source packages (whatlies, scikit-lego, clumper and evol) and is also known as co-founding chair of PyData Amsterdam.
+    He currently works at Rasa as a Research Advocate where he tries to make NLP algorithms more accessible.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
+- title: Thomas Wiecki
+  name: thomas-wiecki
+  subtitle: Speaker
+  twitter: twiecki
+  github: twiecki
+  web:
+  image: twiecki.jpg
+  thumbnail: twiecki.jpg
+  alt: Thomas
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
 
 # files in css/2017_style/img
