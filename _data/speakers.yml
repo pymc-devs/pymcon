@@ -189,4 +189,24 @@
   time_zone:
   track: Advanced
 
+- title: Quan Nguyen
+  name: quan-nguyen
+  subtitle: Speaker
+  twitter: 
+  github: KrisNguyen135
+  web: https://krisnguyen135.github.io/ 
+  image: quan.png
+  thumbnail: quan.png
+  alt: Quan
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Quan is a Bayesian statistics enthusiast (and a programmer at heart).
+    He is the author of several programming books on Python and scientific programming.
+    Quan is currently pursuing a Ph.D. in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
