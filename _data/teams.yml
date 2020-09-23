@@ -164,10 +164,22 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
   name: Abhay_Goyal
   twitter:
   github: abhaygoyal
-  web: https://abhaygoyal.github.io/
+  web: https://abhaygoyal.github.io
   img: abhay.jpeg
   thumbnail: abhay.jpeg
   alt: Picture of Abhay
   subtitle: Committee Member
   topic: Msc at Stony Brook University
   description: "Abhay Goyal is currently pursuing his Master's in Computer Science at Stony Brook University. His current work entails the use of network science to understand the transmission of information in social networks. He is interested in Data Science and Machine Learning among other things. He also loves to collaborate with people, build/write code, and using his CS knowledge in other areas."
+
+- title: Christian Luhmann
+  name: Christian_Luhmann
+  subtitle: Reviewer
+  twitter: 1010is10
+  github: cluhmann
+  web: https://cluhmann.github.io
+  thumbnail: christian.png
+  img: christian.png
+  alt: Picture of Christian
+  topic: "Faculty at Stony Brook University focusing on computational (often Bayesian) models behavior-related data."
+  description: "Christian Luhmann holds a BS in computer science and a PhD in psychology. He is faculty at Stony Brook University, where his research involves modeling behavior, often with applications to behavioral economics and health-related data. His interests draw him to problems in which computation/statistics/tech and human beings bump into one another. Most recently this has meant forays into the world of interpretable machine learning."
