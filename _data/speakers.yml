@@ -251,4 +251,24 @@
   time_zone:
   track: Beginner
 
+- title: Vincent D. Warmerdam
+  name: vincent-warmerdam
+  subtitle: Speaker
+  twitter: fishnets88
+  github: koaning
+  web: koaning.io/calmcode.io
+  image: vincent-warmerdam.jpeg
+  thumbnail: vincent-warmerdam.jpeg
+  alt: Vincent
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Vincent likes to spend his days debunking hype in ML.
+    He started a few open source packages (whatlies, scikit-lego, clumper and evol) and is also known as co-founding chair of PyData Amsterdam.
+    He currently works at Rasa as a Research Advocate where he tries to make NLP algorithms more accessible.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
