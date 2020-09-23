@@ -129,4 +129,25 @@
   time_zone:
   track: Advanced
 
+- title: Allen Downey
+  name: allen-downey
+  subtitle: Speaker
+  twitter: allendowney
+  github: AllenDowney
+  web: allendowney.com
+  image: downey_photo_med.jpg
+  thumbnail: downey_photo_med.jpg
+  alt: Allen
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Allen Downey is a professor of Computer Science at Olin College and Visiting Lecturer at Ashesi University in Ghana.
+    He is the author of a series of open-source textbooks related to software and data science, including Think Python, Think Bayes, and Think Complexity, which are also published by O’Reilly Media.
+    His blog, Probably Overthinking It, features articles on Bayesian probability and statistics.
+    He holds a Ph.D. in computer science from U.C. Berkeley, and M.S. and B.S. degrees from MIT.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
 # files in css/2017_style/img
