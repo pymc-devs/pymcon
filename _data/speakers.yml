@@ -271,4 +271,22 @@
   time_zone:
   track: Advanced
 
+- title: Thomas Wiecki
+  name: thomas-wiecki
+  subtitle: Speaker
+  twitter: twiecki
+  github: twiecki
+  web:
+  image: twiecki.jpg
+  thumbnail: twiecki.jpg
+  alt: Thomas
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
 # files in css/2017_style/img
