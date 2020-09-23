@@ -109,4 +109,24 @@
   time_zone:
   track: Beginner
 
+- title: Tim Dodwell
+  name: tim-dodwell
+  subtitle: Speaker
+  twitter: proftimdodwell
+  github:
+  web: https://www.datacentricengineering.co.uk/team.html
+  image: TimDodwell.jpg
+  thumbnail: TimDodwell.jpg
+  alt: Tim
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter,
+    is the Romberg Visiting at Heidelberg in Scientific Computing
+    and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead. 
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
