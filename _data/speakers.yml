@@ -169,4 +169,24 @@
   time_zone:
   track: Advanced
 
+- title: Grigorios Mingas
+  name: grigorios-mingas
+  subtitle: Speaker
+  twitter:
+  github: gmingas
+  web:
+  image: GrigoriosMingas_Photo.jpg
+  thumbnail: GrigoriosMingas_Photo.jpg
+  alt: Grigorios
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dr. Grigorios Mingas is a Senior Research Data Scientist at The Alan Turing Institute.
+    He received his PhD from Imperial College London, where he co-designed MCMC algorithms and hardware to accelerate Bayesian inference.
+    He has experience in a wide range of projects as a data scientist.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 # files in css/2017_style/img
