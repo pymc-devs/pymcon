@@ -89,4 +89,24 @@
   time_zone:
   track: Advanced
 
+- title: Cameron Davidson-Pilon
+  name: cameron-davidson-pilon
+  subtitle: Speaker
+  twitter: cmrn_dp
+  github:
+  web:
+  image: cameron-davidson-pilon.jpg
+  thumbnail: cameron-davidson-pilon.jpg
+  alt: Cameron
+  topic:
+  proposal_summary:
+  discourse_link: 
+  youtube_link:
+  description: Cameron Davidson-Pilon has worked in many areas of applied statistics, from the evolutionary dynamics of genes to modeling of financial prices.
+    His contributions to the community include lifelines, an implementation of survival analysis in Python, lifetimes, and Bayesian Methods for Hackers, an open source book & printed book on Bayesian analysis.
+    Formally Director of Data Science at Shopify, Cameron is now applying data science to food microbiology.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
 # files in css/2017_style/img
