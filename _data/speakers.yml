@@ -80,6 +80,24 @@
   time_zone:
   track: Advanced
 
+- title: Agustina Arroyuelo
+  name: agustina-arroyuelo
+  subtitle: Speaker
+  twitter:
+  github: agustinaarroyuelo
+  web:
+  image: Agustina_Arroyuelo.jpg
+  thumbnail: Agustina_Arroyuelo.jpg
+  alt: Agustina
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Agustina is a PhD student in the field of structural bioinformatics. 
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Matthijs Brouns
   name: matthijs-brouns
   subtitle: Speaker
