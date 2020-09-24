@@ -220,6 +220,27 @@
   time_zone:
   track: Advanced
 
+- title: Pedro German Ramirez
+  name: pedro-german-ramirez
+  subtitle: Speaker
+  twitter:
+  github: pgerramirez
+  web:
+  image: profile_pgr.jpg
+  thumbnail: profile_pgr.jpg
+  alt: Pedro
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: In the year 2014 I completed my Bs. in Molecular Biology at the National University of San Luis, Argentina
+    and in 2020 I finished my PhD in the Instute of Applied Mathematics (IMASL) while working within the Structural Bioinformatics Group (BIOS).
+    My PhD thesis was centered around the use of a statiscal mechanics model to simulate biologically relevant systems of peptide-lipid interactions.
+    Currently I'm doing my postdoc alongside Dr. Osvaldo Martin on probabilistic modeling and Sequential Monte Carlo.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Ali Akbar Septiandri
   name: ali-akbar-septiandri
   subtitle: Speaker
