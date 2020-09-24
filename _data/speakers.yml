@@ -400,6 +400,28 @@
   time_zone:
   track: Beginner
 
+
+- title: Luciano Paz
+  name: luciano-paz
+  subtitle: Speaker
+  twitter:
+  github: lucianopaz
+  web: https://lucianopaz.github.io
+  image: luciano-paz.png
+  thumbnail: luciano-paz.png
+  alt: Luciano
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: I got into Bayesian stats during my PhD in cognitive neuroscience.
+    During my postdoc I got more involved with machine learning, and discovered pymc3.
+    I became a core contributor of pymc, learnt a lot in the process and made up my mind to pursue a career outside of academia.
+    I am now a machine learning engineer at Innova SpA in Italy.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Pedro German Ramirez
   name: pedro-german-ramirez
   subtitle: Speaker
