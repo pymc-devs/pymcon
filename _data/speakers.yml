@@ -182,6 +182,26 @@
   time_zone:
   track: Beginner
 
+- title: Michael Johns
+  name: michael-johns
+  subtitle: Speaker
+  twitter:
+  github:
+  web:
+  image: Mjohns.jpeg
+  thumbnail: Mjohns.jpeg
+  alt: Michael
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Michael Johns is a data scientist at HelloFresh US.
+    His work focuses on building statistical models for business applications,
+    such as optimizing marketing strategy, customer acquisition forecasting and customer retention.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Sayam Kumar
   name: sayam-kumar
   subtitle: Speaker
