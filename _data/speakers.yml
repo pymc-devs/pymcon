@@ -342,6 +342,27 @@
   time_zone:
   track: Advanced
 
+- title: Michael Osthege
+  name: michael-osthege
+  subtitle: Speaker
+  twitter: theCake
+  github: michaelosthege
+  web:
+  image: osthege_06.jpg
+  thumbnail: osthege_06.jpg
+  alt: Michael
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Michael Osthege is a biotech Bayesian by choice.
+    He likes to work with robots, bacteria and models as much as he loves to work in enthusiastic teams.
+    As a PhD student in laboratory automation for bioprocess development at Forschungszentrum Jülich, he writes software to make robots generate his data.
+    Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Pedro German Ramirez
   name: pedro-german-ramirez
   subtitle: Speaker
