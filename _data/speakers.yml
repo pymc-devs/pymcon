@@ -58,6 +58,25 @@
   time_zone:
   track: All
 
+- title: Mo Akhshik 
+  name: mo-akhshik 
+  subtitle: Speaker
+  twitter: MoAkhshik
+  github: makhshik
+  web:
+  image: mo-akhshik.jpg
+  thumbnail: mo-akhshik.jpg
+  alt: Mo
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Mo is a grad student of (astro)physics by day, a matheux and a Bayesian enthusiast all along.
+    Broadly interested in cosmology and probability too.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Alex Andorra
   name: alex-andorra
   subtitle: Speaker
