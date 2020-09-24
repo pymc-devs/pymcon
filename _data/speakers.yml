@@ -404,6 +404,25 @@
   time_zone:
   track: Advanced
 
+- title: Zhenyu Wang
+  name: zhenyu-wang
+  subtitle: Speaker
+  twitter:
+  github:
+  web:
+  image: ZWang.jpg
+  thumbnail: ZWang.jpg
+  alt: Zhenyu
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Zhenyu Wang is a Senior Business Intelligence Analyst at HelloFresh International.
+    He works on developing and implementing methods to measure the effectiveness of advertising campaigns using analytic and statistical methods. 
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Thomas Wiecki
   name: thomas-wiecki
   subtitle: Speaker
