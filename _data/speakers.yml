@@ -182,6 +182,27 @@
   time_zone:
   track: Beginner
 
+- title: Laura Helleckes
+  name: laura-helleckes
+  subtitle: Speaker
+  twitter: laurahelleckes
+  github: lhelleckes
+  web:
+  image: helleckes_07.jpg
+  thumbnail: helleckes_07.jpg
+  alt: Laura
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast. 
+    In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models. 
+    During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
+    Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Michael Johns
   name: michael-johns
   subtitle: Speaker
