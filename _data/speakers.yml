@@ -501,4 +501,24 @@
   time_zone:
   track: Beginner
 
+- title: Rob Zinkov
+  name: rob-zinkov
+  subtitle: Speaker
+  twitter: zaxtax
+  github: zaxtax
+  web: https://zinkov.com
+  image: rob-zinkov.jpeg
+  thumbnail: rob-zinkov.jpeg
+  alt: Rob
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Rob Zinkov is a PhD student at University of Oxford.
+    My research covers how to more efficiently specify and train deep generative models as well as how to more effectively discover a good statistical model for your data.
+    Previously I was a research scientist at Indiana University where I was the lead developer of the Hakaru probabilistic programming language.
+  presentation_type: Tutorial
+  time_zone:
+  track: Beginner
+
 # files in css/2017_style/img
