@@ -339,6 +339,26 @@
   time_zone:
   track: Advanced
 
+- title: Hessam Mehr
+  name: hessam-mehr
+  subtitle: Speaker
+  twitter: hessammehr
+  github: hessammehr
+  web: https://hessammehr.github.io
+  image: Hessam_Mehr.jpg
+  thumbnail: Hessam_Mehr.jpg
+  alt: Hessam Mehr
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Hessam Mehr is a research associate in the Cronin group at the University of Glasgow's School of Chemistry.
+    He works with an interdisciplinary group of scientists and engineers to build robots and teach them how to do chemistry.
+    Since he joined the group in 2018, Hessam's main focus has been the integration of probabilistic reasoning with chemical robotics and discovery.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Grigorios Mingas
   name: grigorios-mingas
   subtitle: Speaker
