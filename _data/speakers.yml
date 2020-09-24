@@ -180,6 +180,27 @@
   time_zone:
   track: Advanced
 
+- title: Osvaldo Martin 
+  name: osvaldo-martin
+  subtitle: Speaker
+  twitter: aloctavodia
+  github: aloctavodia
+  web:
+  image: profile_oam.jpg
+  thumbnail: profile_oam.jpg
+  alt: Osvaldo
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Osvaldo is a researcher at the National Scientific and Technical Research Council in Argentina
+    and is notably the author of the book Bayesian Analysis with Python, whose second edition was published in December 2018.
+    He also teaches bioinformatics, data science and Bayesian data analysis, and is a core developer of PyMC3 and ArviZ, and recently started contributing to Bambi.
+    Originally a biologist and physicist, Osvaldo trained himself to python and Bayesian methods – and what he's doing with it is pretty amazing!
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Grigorios Mingas
   name: grigorios-mingas
   subtitle: Speaker
