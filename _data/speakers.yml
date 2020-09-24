@@ -58,6 +58,25 @@
   time_zone:
   track: All
 
+- title: Mo Akhshik 
+  name: mo-akhshik 
+  subtitle: Speaker
+  twitter: MoAkhshik
+  github: makhshik
+  web:
+  image: mo-akhshik.jpg
+  thumbnail: mo-akhshik.jpg
+  alt: Mo
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Mo is a grad student of (astro)physics by day, a matheux and a Bayesian enthusiast all along.
+    Broadly interested in cosmology and probability too.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Alex Andorra
   name: alex-andorra
   subtitle: Speaker
@@ -80,6 +99,24 @@
   time_zone:
   track: Advanced
 
+- title: Agustina Arroyuelo
+  name: agustina-arroyuelo
+  subtitle: Speaker
+  twitter:
+  github: agustinaarroyuelo
+  web:
+  image: Agustina_Arroyuelo.jpg
+  thumbnail: Agustina_Arroyuelo.jpg
+  alt: Agustina
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Agustina is a PhD student in the field of structural bioinformatics. 
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Matthijs Brouns
   name: matthijs-brouns
   subtitle: Speaker
@@ -99,6 +136,47 @@
   presentation_type: Let's Build a Model
   time_zone:
   track: Advanced
+
+- title: Dario Caramelli
+  name: dario-caramelli
+  subtitle: Speaker
+  twitter: dariocaramelli
+  github:
+  web:  http://linkedin.com/in/dario-caramelli-705250150
+  image: Dario_Caramelli.jpg
+  thumbnail: Dario_Caramelli.jpg
+  alt: Dario
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dario Caramelli is a research associate in the Cronin group at the University of Glasgow.
+    His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing.
+    Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019)."
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Tushar Chandra
+  name: tushar-chandra
+  subtitle: Speaker
+  twitter: threeshar
+  github: tuchandra
+  web: https://tusharc.dev
+  image: tushar_shandra.jpg
+  thumbnail: tushar_shandra.jpg
+  alt: Tushar
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Tushar is a senior data scientist at Nielsen Global Media in Chicago.
+    At Nielsen, he works on developing Bayesian models for next-generation audience measurement.
+    He loves cats (living with two, Luna and Ruby), chai, and college football.
+    This is his first conference talk!
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
 
 - title: Cameron Davidson-Pilon
   name: cameron-davidson-pilon
@@ -161,6 +239,86 @@
   time_zone:
   track: Beginner
 
+- title: Laura Helleckes
+  name: laura-helleckes
+  subtitle: Speaker
+  twitter: laurahelleckes
+  github: lhelleckes
+  web:
+  image: helleckes_07.jpg
+  thumbnail: helleckes_07.jpg
+  alt: Laura
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast. 
+    In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models. 
+    During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
+    Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Michael Johns
+  name: michael-johns
+  subtitle: Speaker
+  twitter:
+  github:
+  web:
+  image: Mjohns.jpeg
+  thumbnail: Mjohns.jpeg
+  alt: Michael
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Michael Johns is a data scientist at HelloFresh US.
+    His work focuses on building statistical models for business applications,
+    such as optimizing marketing strategy, customer acquisition forecasting and customer retention.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Sayam Kumar
+  name: sayam-kumar
+  subtitle: Speaker
+  twitter: Sayam753
+  github: Sayam753
+  web: https://www.codingpaths.com/
+  image: Sayam_Kumar.jpg
+  thumbnail: Sayam_Kumar.jpg
+  alt: Sayam
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Sayam Kumar is a Computer Science undergraduate student at IIIT Sri City, India.
+    He loves to travel and study maths in his free time. He also finds Bayesian statistics super awesome.
+    He was a Google Summer of Code student with NumFOCUS community and contributed towards adding Variational Inference methods to PyMC4.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Junpeng Lao
+  name: junpeng-lao
+  subtitle: Speaker
+  twitter: junpenglao
+  github:
+  web:
+  image: junpeng.png
+  thumbnail: junpeng.png
+  alt: Junpeng
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Junpeng Lao is a pymc developer and currently a data scientist at Google.
+    He also contribute to Tensorflow Probability and varies other Open source libraries.
+  presentation_type: Tutorial
+  time_zone:
+  track: Beginner
+
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
   subtitle: Speaker
@@ -176,6 +334,47 @@
   youtube_link:
   description: Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and Centre for Water Systems (CWS) at University of Exeter.
     His research is mainly concerned with Uncertainty Quantification (UQ) for computationally intensive forward models.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Osvaldo Martin 
+  name: osvaldo-martin
+  subtitle: Speaker
+  twitter: aloctavodia
+  github: aloctavodia
+  web:
+  image: profile_oam.jpg
+  thumbnail: profile_oam.jpg
+  alt: Osvaldo
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Osvaldo is a researcher at the National Scientific and Technical Research Council in Argentina
+    and is notably the author of the book Bayesian Analysis with Python, whose second edition was published in December 2018.
+    He also teaches bioinformatics, data science and Bayesian data analysis, and is a core developer of PyMC3 and ArviZ, and recently started contributing to Bambi.
+    Originally a biologist and physicist, Osvaldo trained himself to python and Bayesian methods – and what he's doing with it is pretty amazing!
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Hessam Mehr
+  name: hessam-mehr
+  subtitle: Speaker
+  twitter: hessammehr
+  github: hessammehr
+  web: https://hessammehr.github.io
+  image: Hessam_Mehr.jpg
+  thumbnail: Hessam_Mehr.jpg
+  alt: Hessam Mehr
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Hessam Mehr is a research associate in the Cronin group at the University of Glasgow's School of Chemistry.
+    He works with an interdisciplinary group of scientists and engineers to build robots and teach them how to do chemistry.
+    Since he joined the group in 2018, Hessam's main focus has been the integration of probabilistic reasoning with chemical robotics and discovery.
   presentation_type: Talk
   time_zone:
   track: Advanced
@@ -216,6 +415,70 @@
   description: Quan is a Bayesian statistics enthusiast (and a programmer at heart).
     He is the author of several programming books on Python and scientific programming.
     Quan is currently pursuing a Ph.D. in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
+- title: Michael Osthege
+  name: michael-osthege
+  subtitle: Speaker
+  twitter: theCake
+  github: michaelosthege
+  web:
+  image: osthege_06.jpg
+  thumbnail: osthege_06.jpg
+  alt: Michael
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Michael Osthege is a biotech Bayesian by choice.
+    He likes to work with robots, bacteria and models as much as he loves to work in enthusiastic teams.
+    As a PhD student in laboratory automation for bioprocess development at Forschungszentrum Jülich, he writes software to make robots generate his data.
+    Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+
+- title: Luciano Paz
+  name: luciano-paz
+  subtitle: Speaker
+  twitter:
+  github: lucianopaz
+  web: https://lucianopaz.github.io
+  image: luciano-paz.png
+  thumbnail: luciano-paz.png
+  alt: Luciano
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: I got into Bayesian stats during my PhD in cognitive neuroscience.
+    During my postdoc I got more involved with machine learning, and discovered pymc3.
+    I became a core contributor of pymc, learnt a lot in the process and made up my mind to pursue a career outside of academia.
+    I am now a machine learning engineer at Innova SpA in Italy.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
+- title: Pedro German Ramirez
+  name: pedro-german-ramirez
+  subtitle: Speaker
+  twitter:
+  github: pgerramirez
+  web:
+  image: profile_pgr.jpg
+  thumbnail: profile_pgr.jpg
+  alt: Pedro
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: In the year 2014 I completed my Bs. in Molecular Biology at the National University of San Luis, Argentina
+    and in 2020 I finished my PhD in the Instute of Applied Mathematics (IMASL) while working within the Structural Bioinformatics Group (BIOS).
+    My PhD thesis was centered around the use of a statiscal mechanics model to simulate biologically relevant systems of peptide-lipid interactions.
+    Currently I'm doing my postdoc alongside Dr. Osvaldo Martin on probabilistic modeling and Sequential Monte Carlo.
   presentation_type: Talk
   time_zone:
   track: Advanced
@@ -282,6 +545,25 @@
   time_zone:
   track: Advanced
 
+- title: Zhenyu Wang
+  name: zhenyu-wang
+  subtitle: Speaker
+  twitter:
+  github:
+  web:
+  image: ZWang.jpg
+  thumbnail: ZWang.jpg
+  alt: Zhenyu
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Zhenyu Wang is a Senior Business Intelligence Analyst at HelloFresh International.
+    He works on developing and implementing methods to measure the effectiveness of advertising campaigns using analytic and statistical methods. 
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+
 - title: Thomas Wiecki
   name: thomas-wiecki
   subtitle: Speaker
@@ -297,6 +579,26 @@
   youtube_link:
   description: Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
   presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
+- title: Rob Zinkov
+  name: rob-zinkov
+  subtitle: Speaker
+  twitter: zaxtax
+  github: zaxtax
+  web: https://zinkov.com
+  image: rob-zinkov.jpeg
+  thumbnail: rob-zinkov.jpeg
+  alt: Rob
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Rob Zinkov is a PhD student at University of Oxford.
+    My research covers how to more efficiently specify and train deep generative models as well as how to more effectively discover a good statistical model for your data.
+    Previously I was a research scientist at Indiana University where I was the lead developer of the Hakaru probabilistic programming language.
+  presentation_type: Tutorial
   time_zone:
   track: Beginner
 
