@@ -202,6 +202,25 @@
   time_zone:
   track: Beginner
 
+- title: Junpeng Lao
+  name: junpeng-lao
+  subtitle: Speaker
+  twitter: junpenglao
+  github:
+  web:
+  image: junpeng.png
+  thumbnail: junpeng.png
+  alt: Junpeng
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Junpeng Lao is a pymc developer and currently a data scientist at Google.
+    He also contribute to Tensorflow Probability and varies other Open source libraries.
+  presentation_type: Tutorial
+  time_zone:
+  track: Beginner
+
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
   subtitle: Speaker
