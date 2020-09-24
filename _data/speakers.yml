@@ -100,6 +100,27 @@
   time_zone:
   track: Advanced
 
+- title: Tushar Chandra
+  name: tushar-chandra
+  subtitle: Speaker
+  twitter: threeshar
+  github: tuchandra
+  web: https://tusharc.dev
+  image: tushar_shandra.jpg
+  thumbnail: tushar_shandra.jpg
+  alt: Tushar
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Tushar is a senior data scientist at Nielsen Global Media in Chicago.
+    At Nielsen, he works on developing Bayesian models for next-generation audience measurement.
+    He loves cats (living with two, Luna and Ruby), chai, and college football.
+    This is his first conference talk!
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+
 - title: Cameron Davidson-Pilon
   name: cameron-davidson-pilon
   subtitle: Speaker
