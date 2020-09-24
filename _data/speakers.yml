@@ -137,6 +137,26 @@
   time_zone:
   track: Advanced
 
+- title: Dario Caramelli
+  name: dario-caramelli
+  subtitle: Speaker
+  twitter: dariocaramelli
+  github:
+  web:  http://linkedin.com/in/dario-caramelli-705250150
+  image: Dario_Caramelli.jpg
+  thumbnail: Dario_Caramelli.jpg
+  alt: Dario
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dario Caramelli is a research associate in the Cronin group at the University of Glasgow.
+    His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing.
+    Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019)."
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+
 - title: Tushar Chandra
   name: tushar-chandra
   subtitle: Speaker
