@@ -616,9 +616,9 @@
   discourse_link:
   youtube_link:
   description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical
-  company. Her interests span Gaussian Processes, Bayesian Neural Networks, compartmental
-  models and differential equations with applications in epidemiology and toxicology.
-  She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
+    company. Her interests span Gaussian Processes, Bayesian Neural Networks, compartmental
+    models and differential equations with applications in epidemiology and toxicology.
+    She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
   presentation_type: Lets Build a Model
   time_zone:
   track: Beginner
