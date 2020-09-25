@@ -58,8 +58,8 @@
   time_zone:
   track: All
 
-- title: Mo Akhshik 
-  name: mo-akhshik 
+- title: Mo Akhshik
+  name: mo-akhshik
   subtitle: Speaker
   twitter: MoAkhshik
   github: makhshik
@@ -112,7 +112,7 @@
   proposal_summary:
   discourse_link:
   youtube_link:
-  description: Agustina is a PhD student in the field of structural bioinformatics. 
+  description: Agustina is a PhD student in the field of structural bioinformatics.
   presentation_type: Talk
   time_zone:
   track: Beginner
@@ -189,7 +189,7 @@
   alt: Cameron
   topic:
   proposal_summary:
-  discourse_link: 
+  discourse_link:
   youtube_link:
   description: Cameron Davidson-Pilon has worked in many areas of applied statistics, from the evolutionary dynamics of genes to modeling of financial prices.
     His contributions to the community include lifelines, an implementation of survival analysis in Python, lifetimes, and Bayesian Methods for Hackers, an open source book & printed book on Bayesian analysis.
@@ -213,7 +213,7 @@
   youtube_link:
   description: Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter,
     is the Romberg Visiting at Heidelberg in Scientific Computing
-    and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead. 
+    and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead.
   presentation_type: Talk
   time_zone:
   track: Advanced
@@ -252,8 +252,8 @@
   proposal_summary:
   discourse_link:
   youtube_link:
-  description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast. 
-    In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models. 
+  description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
+    In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models.
     During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
     Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
   presentation_type: Talk
@@ -322,7 +322,7 @@
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
   subtitle: Speaker
-  twitter: 
+  twitter:
   github:
   web: http://emps.exeter.ac.uk/engineering/staff/ml624
   image: Mikkel_Lykkegaard.JPG
@@ -338,7 +338,7 @@
   time_zone:
   track: Advanced
 
-- title: Osvaldo Martin 
+- title: Osvaldo Martin
   name: osvaldo-martin
   subtitle: Speaker
   twitter: aloctavodia
@@ -402,9 +402,9 @@
 - title: Quan Nguyen
   name: quan-nguyen
   subtitle: Speaker
-  twitter: 
+  twitter:
   github: KrisNguyen135
-  web: https://krisnguyen135.github.io/ 
+  web: https://krisnguyen135.github.io/
   image: quan.png
   thumbnail: quan.png
   alt: Quan
@@ -559,7 +559,7 @@
   discourse_link:
   youtube_link:
   description: Zhenyu Wang is a Senior Business Intelligence Analyst at HelloFresh International.
-    He works on developing and implementing methods to measure the effectiveness of advertising campaigns using analytic and statistical methods. 
+    He works on developing and implementing methods to measure the effectiveness of advertising campaigns using analytic and statistical methods.
   presentation_type: Talk
   time_zone:
   track: Beginner
@@ -602,4 +602,24 @@
   time_zone:
   track: Beginner
 
+- title: Elizaveta Semenova
+  name: elizaveta-semenova
+  subtitle: Speaker
+  twitter: liza_p_semenova
+  github: rob-zinkov
+  web:
+  image: Photo_Liza_square.png
+  thumbnail: Photo_Liza_square.png
+  alt: Rob
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description:Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical
+  company. Her interests span Gaussian Processes, Bayesian Neural Networks, compartmental
+  models and differential equations with applications in epidemiology and toxicology.
+  She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
+  presentation_type: Lets Build a Model
+  time_zone:
+  track: Beginner
 # files in css/2017_style/img
