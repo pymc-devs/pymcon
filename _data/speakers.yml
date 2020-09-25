@@ -63,18 +63,18 @@
   subtitle: Speaker
   twitter: MoAkhshik
   github: makhshik
-  web:
+  web: 
   image: mo-akhshik.jpg
   thumbnail: mo-akhshik.jpg
   alt: Mo
-  topic:
-  proposal_summary:
+  topic: A Novel Bayesian Model to Fit Spectrophotometric Data of Hubble and Spitzer Space Telescopes
+  proposal_summary: 
   discourse_link:
   youtube_link:
   description: Mo is a grad student of (astro)physics by day, a matheux and a Bayesian enthusiast all along.
     Broadly interested in cosmology and probability too.
   presentation_type: Talk
-  time_zone:
+  time_zone: 9-15 GMT+2
   track: Advanced
 
 - title: Alex Andorra
