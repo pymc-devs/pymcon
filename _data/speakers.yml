@@ -290,6 +290,26 @@
   track: Beginner
   keywork: Michns
 
+- title: Rasul Karimov
+  name: rasul-karimov
+  subtitle: Speaker
+  twitter: rkarrimov
+  github: rrkarim 
+  web:
+  image: Rasul_Karimov.jpg
+  thumbnail: Rasul_Karimov.jpg
+  alt: Rasul
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Just finished Master's degree in Data Science.
+    Had a great experience expanding the PyMC4 library during this summer's GSoC.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+  keyword:
+
 - title: Sayam Kumar
   name: sayam-kumar
   subtitle: Speaker
