@@ -139,7 +139,7 @@
   presentation_type: Let's Build a Model
   time_zone:
   track: Advanced
-  keyword: 
+  keywork: 
 
 - title: Dario Caramelli
   name: dario-caramelli
@@ -299,8 +299,8 @@
   image: Sayam_Kumar.jpg
   thumbnail: Sayam_Kumar.jpg
   alt: Sayam
-  topic: 
-  proposal_summary:
+  topic: Demystifying Variational Inference 
+  proposal_summary: What will you do if MCMC is taking too long to sample? Also what if the dataset is huge? Is there any other cost-effective method for finding the posterior that can save us and potentially produce similar results? Well, you have come to the right place. In this talk, I will explain the intuition and maths behind Variational Inference, the algorithms capturing the amount of correlation, out of the box implementations that we can use, and ultimately diagnosing the model to fit our use case.
   discourse_link:
   youtube_link:
   description: Sayam Kumar is a Computer Science undergraduate student at IIIT Sri City, India.
@@ -320,15 +320,16 @@
   image: junpeng.png
   thumbnail: junpeng.png
   alt: Junpeng
-  topic:
-  proposal_summary:
+  topic: Partial Missing Multivariate observation and what to do with them
+  proposal_summary: Missing value is pretty common in any real world data set. While PyMC3 provides convenient automatic imputation, how do we verify it works, especially dealing with multivariate observation with partially missing value? Come to this tutorial to find out!
   discourse_link:
   youtube_link:
   description: Junpeng Lao is a pymc developer and currently a data scientist at Google.
     He also contribute to Tensorflow Probability and varies other Open source libraries.
   presentation_type: Tutorial
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Junlao
 
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
@@ -339,15 +340,16 @@
   image: Mikkel_Lykkegaard.JPG
   thumbnail: Mikkel_Lykkegaard.JPG
   alt: Mikkel
-  topic:
-  proposal_summary:
+  topic: The MLDA multilevel sampler in PyMC3
+  proposal_summary: This presentation will give you the chance to know more about PyMC3’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
   discourse_link:
   youtube_link:
   description: Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and Centre for Water Systems (CWS) at University of Exeter.
     His research is mainly concerned with Uncertainty Quantification (UQ) for computationally intensive forward models.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Advanced
+  keywork: Mikard
 
 - title: Osvaldo Martin
   name: osvaldo-martin
@@ -358,8 +360,8 @@
   image: profile_oam.jpg
   thumbnail: profile_oam.jpg
   alt: Osvaldo
-  topic:
-  proposal_summary:
+  topic: Sequential Monte Carlo: Introduction and diagnostics
+  proposal_summary: In this talk we will provide a brief introduction to Sequential Monte Carlo (SMC) methods and provide a guide to diagnose posterior samples computed using SMC.
   discourse_link:
   youtube_link:
   description: Osvaldo is a researcher at the National Scientific and Technical Research Council in Argentina
@@ -367,8 +369,9 @@
     He also teaches bioinformatics, data science and Bayesian data analysis, and is a core developer of PyMC3 and ArviZ, and recently started contributing to Bambi.
     Originally a biologist and physicist, Osvaldo trained himself to python and Bayesian methods – and what he's doing with it is pretty amazing!
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Advanced
+  keywork: Osvtin
 
 - title: Hessam Mehr
   name: hessam-mehr
@@ -379,16 +382,17 @@
   image: Hessam_Mehr.jpg
   thumbnail: Hessam_Mehr.jpg
   alt: Hessam Mehr
-  topic:
-  proposal_summary:
+  topic: An alcohol? What are the chances! Knowledge-based and probabilistic models in chemistry using PyMC3
+  proposal_summary: We have used PyMC3 to formulate an explainable probabilistic model of chemical reactivity. This probabilistic model combines the intuitive concepts of high school chemistry with the computer's ability to store and reason about large datasets. We use our model in the lab, where it guides a robot chemist towards "interesting" experiments that might lead to the discovery of new reactions.
   discourse_link:
   youtube_link:
   description: Hessam Mehr is a research associate in the Cronin group at the University of Glasgow's School of Chemistry.
     He works with an interdisciplinary group of scientists and engineers to build robots and teach them how to do chemistry.
     Since he joined the group in 2018, Hessam's main focus has been the integration of probabilistic reasoning with chemical robotics and discovery.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Advanced
+  keywork: Hesehr
 
 - title: Grigorios Mingas
   name: grigorios-mingas
@@ -399,16 +403,17 @@
   image: GrigoriosMingas_Photo.jpg
   thumbnail: GrigoriosMingas_Photo.jpg
   alt: Grigorios
-  topic:
-  proposal_summary:
+  topic: The MLDA multilevel sampler in PyMC3
+  proposal_summary: This presentation will give you the chance to know more about PyMC3’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
   discourse_link:
   youtube_link:
   description: Dr. Grigorios Mingas is a Senior Research Data Scientist at The Alan Turing Institute.
     He received his PhD from Imperial College London, where he co-designed MCMC algorithms and hardware to accelerate Bayesian inference.
     He has experience in a wide range of projects as a data scientist.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Advanced
+  keywork: Grigas
 
 - title: Quan Nguyen
   name: quan-nguyen
@@ -419,16 +424,17 @@
   image: quan.png
   thumbnail: quan.png
   alt: Quan
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: At the heart of any machine learning (ML) problem is the identification of models that explain the data well, where learning about the model parameters, treated as random variables, is integral. Bayes' theorem, and in general Bayesian learning, offers a principled framework to update one's beliefs about an unknown quantity; Bayesian methods therefore play an important role in many aspects of ML. This introductory talk aims to highlight some of the most prominent areas in Bayesian ML from the perspective of statisticians and analysts, drawing parallels between these areas and common problems that Bayesian statisticians work on.
   discourse_link:
   youtube_link:
   description: Quan is a Bayesian statistics enthusiast (and a programmer at heart).
     He is the author of several programming books on Python and scientific programming.
     Quan is currently pursuing a Ph.D. in computer science at Washington University in St. Louis, researching Bayesian methods in machine learning.
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Advanced
+  keywork: Quayen
 
 - title: Michael Osthege
   name: michael-osthege
@@ -439,8 +445,8 @@
   image: osthege_06.jpg
   thumbnail: osthege_06.jpg
   alt: Michael
-  topic:
-  proposal_summary:
+  topic: calibr8: Going beyond linear ranges with non-linear calibration curves and multilevel modeling
+  proposal_summary: You just coded up a beautiful model and dummy prediction looks great. Now comes the data, but wait: the units don't match! And to make matters worse, the correlation between model variable and measurement readout is non-linear and heteroscedastic! Sounds familiar? non-linear calibration to the rescue! With `calibr8`, we present a statistical framework and corresponding open source Python package that solves non-linear calibration and likelihood functions for modeling. From a laboratory automation and systems biology perspective, the advantage of non-linear calibration with `calibr8` is two-fold: For lab scientists doing (high-throughput) experiments, `calibr8` facilitates more intuitive uncertainty quantification and makes every-day data analysis more robust, automatable and Bayesian. From a modeling perspective, non-linear _error models_ are essential components of realistic Bayesian process models, and are key to accurately describe the nastiest step of the data-generating process. In this talk, we will take you step-by-step through the data-generating process of an automated bioassay and demonstrate how its non-linearities are modeled with `calibr8`. We will show how `calibr8` can make your life easier - and of course more Bayesian - even if you don't always go all the way to a process model. Finally, we will show how non-linear error models and multi-level modeling with `PyMC3` enable you to get more information out of heterogeneous regression analyses. Join us for the talk and discussion to learn about building Bayesian models for bioassays and dive into the fascinatingly frightening world of non-linear measurement errors!
   discourse_link:
   youtube_link:
   description: Michael Osthege is a biotech Bayesian by choice.
@@ -448,8 +454,9 @@
     As a PhD student in laboratory automation for bioprocess development at Forschungszentrum Jülich, he writes software to make robots generate his data.
     Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Micege
 
 
 - title: Luciano Paz
@@ -461,8 +468,8 @@
   image: luciano-paz.png
   thumbnail: luciano-paz.png
   alt: Luciano
-  topic:
-  proposal_summary:
+  topic: Forward sampling in pymc
+  proposal_summary: Pymc is great for infering parameter values in a model given some observations, but sometimes we also want to generate random samples from the model either as predictions given what we already inferred from the observed data, or we just want to generate synthetic data that's compatible with the model we built. These two kinds of sampling are called posterior predictive and prior predictive sampling, and are collectively called forward sampling. Forward sampling can be hard. The typical problems that show up are related to shape mismatches in hierarchical models, latent categorical values that aren't correctly re-sampled or changing the shape of the data between the training and test phases. In this talk I'll talk about how forward sampling is implemented in pymc3 and pymc4, and give some tips on how to deal with the typical problems that show up when we want to generate forward samples.
   discourse_link:
   youtube_link:
   description: I got into Bayesian stats during my PhD in cognitive neuroscience.
@@ -470,8 +477,9 @@
     I became a core contributor of pymc, learnt a lot in the process and made up my mind to pursue a career outside of academia.
     I am now a machine learning engineer at Innova SpA in Italy.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Lucpaz
 
 - title: Pedro German Ramirez
   name: pedro-german-ramirez
@@ -482,8 +490,10 @@
   image: profile_pgr.jpg
   thumbnail: profile_pgr.jpg
   alt: Pedro
-  topic:
-  proposal_summary:
+  topic: Sequential Monte Carlo: Introduction and diagnostics
+  proposal_summary: Sequential Monte Carlo (also known as particle filters) were initially confined to the so-called "filtering problem" (the sequential analysis of state-space models), but they popularity has been growing in other areas including non-sequential tasks like estimating a single posterior distribution, i.e. the typical task performed by pm.sample(). For such cases SMC samplers has been presented as alternatives to MCMC methods. Some advantages often listed in the literature are: simple way of estimating the marginal likelihood (generally for the purpose of model choice), easier parallelization, easier design of adaptative methods, and ability to deal with multi-modal posteriors.
+  The literature usually fails to acknowledge that SMC methods are a less mature alternative when compared to Hamiltonian Monte Carlo methods, such as the nuts sampler in PyMC3, Stan, etc. SMC methods are also the base for the most advanced Approximate Bayesian Computation (ABC) methods, which are also increasingly used to solve complex problems in fields like polulation genetics, systems biology, astronomy among others.
+  The literature on SMC and SMC-ABC methods can be puzzling for newcomers as the same methods has more than one name or sometimes different names correspond to the same method or concept. In this talk we will provide a brief introduction to SMC methods specially focused on clarifying the key concepts and terminology necessary to use SMC methods in practice, and then we will focus on how to diagnose SMC, including results from preliminary experiments.
   discourse_link:
   youtube_link:
   description: In the year 2014 I completed my Bs. in Molecular Biology at the National University of San Luis, Argentina
@@ -491,8 +501,9 @@
     My PhD thesis was centered around the use of a statiscal mechanics model to simulate biologically relevant systems of peptide-lipid interactions.
     Currently I'm doing my postdoc alongside Dr. Osvaldo Martin on probabilistic modeling and Sequential Monte Carlo.
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Advanced
+  keywork: Pedrez
 
 - title: Ali Akbar Septiandri
   name: ali-akbar-septiandri
@@ -503,15 +514,16 @@
   image: ali-akbar-septiandri.jpg
   thumbnail: ali-akbar-septiandri.jpg
   alt: Ali
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: My journey in learning (and relearning) Bayesian methods as a computer scientist
   discourse_link:
   youtube_link:
   description: A data scientist and a lecturer.
     Learning/teaching data science, machine learning, and artificial intelligence.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Alidri
 
 - title: Evdoxia Taka
   name: evdoxia-taka
@@ -522,8 +534,8 @@
   image: Evdoxia.jpg
   thumbnail: Evdoxia.jpg
   alt: Evdoxia
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: Automatic transformation of Bayesian probabilistic models into interactive visualisations: models expressed in a probabilistic programming language are translated automatically into interactive multiverse diagrams, a graphical representation of the model’s structure at varying levels of granularity, with seamless integration of uncertainty visualisation. A concrete implementation in Python that translates probabilistic programs to interactive multiverse diagrams will be presented and illustrated by examples for a variety of Bayesian probabilistic models. 
   discourse_link:
   youtube_link:
   description: Evdoxia is a PhD student at the School of Computing Science of University of Glasgow since 2019.
@@ -533,8 +545,9 @@
     She worked as a Research Assistant at the Centre for Research & Technology Hellas in Thessaloniki contributing to various national- and EU-funded research projects in areas such as computer vision, 3D reconstruction and simulation, machine learning.
     She has also worked as a Research Database Engineer for the HCV Research UK project at the Centre for Virus Research of the University of Glasgow.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Evdaka
 
 - title: Vincent D. Warmerdam
   name: vincent-warmerdam
@@ -545,16 +558,17 @@
   image: vincent-warmerdam.jpeg
   thumbnail: vincent-warmerdam.jpeg
   alt: Vincent
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors.
   discourse_link:
   youtube_link:
   description: Vincent likes to spend his days debunking hype in ML.
     He started a few open source packages (whatlies, scikit-lego, clumper and evol) and is also known as co-founding chair of PyData Amsterdam.
     He currently works at Rasa as a Research Advocate where he tries to make NLP algorithms more accessible.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Advanced
+  keywork: Vindam
 
 - title: Zhenyu Wang
   name: zhenyu-wang
@@ -565,15 +579,16 @@
   image: ZWang.jpg
   thumbnail: ZWang.jpg
   alt: Zhenyu
-  topic:
-  proposal_summary:
+  topic: A Bayesian Approach to Media Mix Modeling
+  proposal_summary: This talk describes how we built a Bayesian Media Mix Model of new customer acquisition using PyMC3. We will explain the statistical structure of the model in detail, with special attention to nonlinear functional transformations, discuss some of the technical challenges we tackled when building it in a Bayesian framework, and touch on how we use it in production to guide our marketing strategy.
   discourse_link:
   youtube_link:
   description: Zhenyu Wang is a Senior Business Intelligence Analyst at HelloFresh International.
     He works on developing and implementing methods to measure the effectiveness of advertising campaigns using analytic and statistical methods.
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Beginner
+  keywork: Zheang  
 
 - title: Thomas Wiecki
   name: thomas-wiecki
@@ -584,14 +599,15 @@
   image: twiecki.jpg
   thumbnail: twiecki.jpg
   alt: Thomas
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: In this tutorial we will build a COVID-19 model from scratch.
   discourse_link:
   youtube_link:
   description: Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Thocki
 
 - title: Rob Zinkov
   name: rob-zinkov
@@ -602,16 +618,17 @@
   image: rob-zinkov.jpeg
   thumbnail: rob-zinkov.jpeg
   alt: Rob
-  topic:
-  proposal_summary:
+  topic: In this tutorial we will build a COVID-19 model from scratch.
+  proposal_summary: Have you ever written a model in PyMC3 and aren't sure if it's any good? In this talk I will show you the many ways you can evaluate how will your model fits your data using PyMC3. Not all these techniques may be applicable for your particular problem but you will definitely walk away with a few new tricks for being confident in the models you fit.
   discourse_link:
   youtube_link:
   description: Rob Zinkov is a PhD student at University of Oxford.
     My research covers how to more efficiently specify and train deep generative models as well as how to more effectively discover a good statistical model for your data.
     Previously I was a research scientist at Indiana University where I was the lead developer of the Hakaru probabilistic programming language.
   presentation_type: Tutorial
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Robkov
 
 - title: Elizaveta Semenova
   name: elizaveta-semenova
@@ -622,8 +639,8 @@
   image: Photo_Liza_square.png
   thumbnail: Photo_Liza_square.png
   alt: Rob
-  topic:
-  proposal_summary:
+  topic: Building an ordered logistic regression model for toxicity prediction
+  proposal_summary: We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from  in vitro data and physicochemical properties of compounds. 
   discourse_link:
   youtube_link:
   description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical
@@ -631,6 +648,7 @@
     models and differential equations with applications in epidemiology and toxicology.
     She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
   presentation_type: Lets Build a Model
-  time_zone:
+  time_zone: 
   track: Beginner
+  keywork: Eliova
 # files in css/2017_style/img
