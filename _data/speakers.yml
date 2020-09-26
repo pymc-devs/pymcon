@@ -587,6 +587,26 @@
   track: Beginner
   keywork: Alidri
 
+- title: Max Sklar
+  name: max-sklar
+  subtitle: Speaker
+  twitter: maxsklar
+  github: maxsklar
+  web: www.localmaxradio.com
+  image: max_sklar.png
+  thumbnail: max_sklar.png
+  alt: Max
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Max Sklar is a machine learning engineer and a member of the innovation labs team at Foursquare.
+    He hosts a weekly podcast called The Local Maximum which covers a broad range of current issues, including a focus on Bayesian Inference.
+  presentation_type: Talk
+  time_zone: Americas
+  track: Beginner
+  keyword:
+
 - title: Nicoleta Spinu
   name: nicoleta-spinu
   subtitle: Speaker
