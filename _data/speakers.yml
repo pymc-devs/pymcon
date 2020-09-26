@@ -24,7 +24,7 @@
   twitter: violapriesemann
   github: vpriesem
   web: http://www.viola-priesemann.de/
- iimage: Viola.jpg
+ image: Viola.jpg
   thumbnail: Viola.jpg
   alt: Viola
   topic:
@@ -74,8 +74,9 @@
   description: Mo is a grad student of (astro)physics by day, a matheux and a Bayesian enthusiast all along.
     Broadly interested in cosmology and probability too.
   presentation_type: Talk
-  time_zone: 9-15 GMT+2
+  time_zone: European
   track: Advanced
+  keywork: mohik
 
 - title: Alex Andorra
   name: alex-andorra
@@ -87,7 +88,7 @@
   thumbnail: alex.png
   alt: Alex
   topic:
-  proposal_summary:
+  proposal_summary: Predicting elections in Paris with hierarchical multinomial regression
   discourse_link:
   youtube_link:
   description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com.
@@ -96,8 +97,9 @@
     Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics.
     He also loves Nutella a bit too much, but he doesn’t like talking about it -- he prefers eating it.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Africa/Asia/Europe
   track: Advanced
+  keywork: Alerra
 
 - title: Agustina Arroyuelo
   name: agustina-arroyuelo
@@ -108,14 +110,15 @@
   image: Agustina_Arroyuelo.jpg
   thumbnail: Agustina_Arroyuelo.jpg
   alt: Agustina
-  topic:
-  proposal_summary:
+  topic: Studying glycan 3D structures with PyMC3 and ArviZ 
+  proposal_summary: I will describe how to model glycan torsion angles with PyMC3 and ArviZ.
   discourse_link:
   youtube_link:
   description: Agustina is a PhD student in the field of structural bioinformatics.
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Beginner
+  keywork: Aguelo
 
 - title: Matthijs Brouns
   name: matthijs-brouns
@@ -126,7 +129,7 @@
   image: matthijs-brounds.jpeg
   thumbnail: matthijs-brounds.jpeg
   alt: Matthijs
-  topic:
+  topic: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors 
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -136,6 +139,7 @@
   presentation_type: Let's Build a Model
   time_zone:
   track: Advanced
+  keyword: 
 
 - title: Dario Caramelli
   name: dario-caramelli
@@ -146,16 +150,17 @@
   image: Dario_Caramelli.jpg
   thumbnail: Dario_Caramelli.jpg
   alt: Dario
-  topic:
-  proposal_summary:
+  topic: An alcohol? What are the chances! Knowledge-based and probabilistic models in chemistry using PyMC3
+  proposal_summary: We have used PyMC3 to formulate an explainable probabilistic model of chemical reactivity. This probabilistic model combines the intuitive concepts of high school chemistry with the computer's ability to store and reason about large datasets. We use our model in the lab, where it guides a robot chemist towards \"interesting\" experiments that might lead to the discovery of new reactions.
   discourse_link:
   youtube_link:
   description: Dario Caramelli is a research associate in the Cronin group at the University of Glasgow.
     His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing.
     Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019)."
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe 
   track: Advanced
+  keywork: Darlli
 
 - title: Tushar Chandra
   name: tushar-chandra
@@ -166,8 +171,8 @@
   image: tushar_shandra.jpg
   thumbnail: tushar_shandra.jpg
   alt: Tushar
-  topic:
-  proposal_summary:
+  topic: Learning Bayesian Statistics with Pokemon GO
+  proposal_summary: In the mobile game Pokemon GO, players can rarely encounter \"shiny\" Pokemon. The exact appearance rates are unknown. But by using Bayesian inference and PyMC3, we can model different species' shiny rates. In this beginner-level tutorial, we will introduce fundamental principles at the heart of Bayesian modeling; then we will apply them to develop PyMC3 models that can answer questions about Pokemon GO.
   discourse_link:
   youtube_link:
   description: Tushar is a senior data scientist at Nielsen Global Media in Chicago.
@@ -175,7 +180,7 @@
     He loves cats (living with two, Luna and Ruby), chai, and college football.
     This is his first conference talk!
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Americas
   track: Beginner
 
 - title: Cameron Davidson-Pilon
@@ -187,16 +192,17 @@
   image: cameron-davidson-pilon.jpg
   thumbnail: cameron-davidson-pilon.jpg
   alt: Cameron
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: In this LBAM, we'll introduce the microbiological task of cell counting and understand all the potential sources of error involved. We'll model each source of error probabilistically, introduce priors, and then discuss inference on the posterior. Finally, we'll explore how we can extend our model to use in a calibration curve for other instruments. Only basic probability theory is required for this LBAM. 
   discourse_link:
   youtube_link:
   description: Cameron Davidson-Pilon has worked in many areas of applied statistics, from the evolutionary dynamics of genes to modeling of financial prices.
     His contributions to the community include lifelines, an implementation of survival analysis in Python, lifetimes, and Bayesian Methods for Hackers, an open source book & printed book on Bayesian analysis.
     Formally Director of Data Science at Shopify, Cameron is now applying data science to food microbiology.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Americas
   track: Beginner
+  keywork: Camlon
 
 - title: Tim Dodwell
   name: tim-dodwell
@@ -207,16 +213,17 @@
   image: TimDodwell.jpg
   thumbnail: TimDodwell.jpg
   alt: Tim
-  topic:
-  proposal_summary:
+  topic: The MLDA multilevel sampler in PyMC3
+  proposal_summary: This presentation will give you the chance to know more about PyMC3’s new multilevel MCMC sampler, MLDA, and help you use it in practice. MLDA exploits multilevel model hierarchies to improve sampling efficiency compared to standard methods, especially when working with high-dimensional problems where gradients are not available. We will present a step-by-step guide on how to use MLDA within PyMC3, go through its various features and also present some advanced use cases, e.g. employing multilevel PDE-based models written in FEniCS and using adaptive error correction to correct model bias between different levels.
   discourse_link:
   youtube_link:
   description: Prof. Tim Dodwell has a personal chair in Computational Mechanics at the University of Exeter,
     is the Romberg Visiting at Heidelberg in Scientific Computing
     and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Advanced
+  keywork: Timwell
 
 - title: Allen Downey
   name: allen-downey
@@ -227,8 +234,8 @@
   image: downey_photo_med.jpg
   thumbnail: downey_photo_med.jpg
   alt: Allen
-  topic:
-  proposal_summary:
+  topic: 
+  proposal_summary: Tools like PyMC make it easy to implement probablistic models, but it is still challenging to develop and validate those models.  In this talk, I present an incremental strategy for developing and testing models by alternating between forward and inverse probabilities and between grid algorithms and MCMC.  I'll use Poisson processes as an example, but this strategy applies to other probabilistic models.
   discourse_link:
   youtube_link:
   description: Allen Downey is a professor of Computer Science at Olin College and Visiting Lecturer at Ashesi University in Ghana.
@@ -236,8 +243,9 @@
     His blog, Probably Overthinking It, features articles on Bayesian probability and statistics.
     He holds a Ph.D. in computer science from U.C. Berkeley, and M.S. and B.S. degrees from MIT.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: Americas
   track: Beginner
+  keywork: Allney
 
 - title: Laura Helleckes
   name: laura-helleckes
@@ -248,17 +256,18 @@
   image: helleckes_07.jpg
   thumbnail: helleckes_07.jpg
   alt: Laura
-  topic:
-  proposal_summary:
-  discourse_link:
+  topic: calibr8: Going beyond linear ranges with non-linear calibration curves and multilevel modeling
+  proposal_summary: You just coded up a beautiful model and dummy prediction looks great. Now comes the data, but wait: the units don't match! And to make matters worse, the correlation between model variable and measurement readout is non-linear and heteroscedastic! Sounds familiar? non-linear calibration to the rescue! With `calibr8`, we present a statistical framework and corresponding open source Python package that solves non-linear calibration and likelihood functions for modeling. From a laboratory automation and systems biology perspective, the advantage of non-linear calibration with `calibr8` is two-fold: For lab scientists doing (high-throughput) experiments, `calibr8` facilitates more intuitive uncertainty quantification and makes every-day data analysis more robust, automatable and Bayesian. From a modeling perspective, non-linear _error models_ are essential components of realistic Bayesian process models, and are key to accurately describe the nastiest step of the data-generating process. In this talk, we will take you step-by-step through the data-generating process of an automated bioassay and demonstrate how its non-linearities are modeled with `calibr8`. We will show how `calibr8` can make your life easier - and of course more Bayesian - even if you don't always go all the way to a process model. Finally, we will show how non-linear error models and multi-level modeling with `PyMC3` enable you to get more information out of heterogeneous regression analyses. Join us for the talk and discussion to learn about building Bayesian models for bioassays and dive into the fascinatingly frightening world of non-linear measurement errors!
+  discourse_link: 
   youtube_link:
   description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
     In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models.
     During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
     Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Laukes
 
 - title: Michael Johns
   name: michael-johns
@@ -269,16 +278,17 @@
   image: Mjohns.jpeg
   thumbnail: Mjohns.jpeg
   alt: Michael
-  topic:
-  proposal_summary:
+  topic: A Bayesian Approach to Media Mix Modeling
+  proposal_summary: This talk describes how we built a Bayesian Media Mix Model of new customer acquisition using PyMC3. We will explain the statistical structure of the model in detail, with special attention to nonlinear functional transformations, discuss some of the technical challenges we tackled when building it in a Bayesian framework, and touch on how we use it in production to guide our marketing strategy.
   discourse_link:
   youtube_link:
   description: Michael Johns is a data scientist at HelloFresh US.
     His work focuses on building statistical models for business applications,
     such as optimizing marketing strategy, customer acquisition forecasting and customer retention.
   presentation_type: Talk
-  time_zone:
+  time_zone: Americas
   track: Beginner
+  keywork: Michns
 
 - title: Sayam Kumar
   name: sayam-kumar
@@ -289,7 +299,7 @@
   image: Sayam_Kumar.jpg
   thumbnail: Sayam_Kumar.jpg
   alt: Sayam
-  topic:
+  topic: 
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -297,8 +307,9 @@
     He loves to travel and study maths in his free time. He also finds Bayesian statistics super awesome.
     He was a Google Summer of Code student with NumFOCUS community and contributed towards adding Variational Inference methods to PyMC4.
   presentation_type: Talk
-  time_zone:
+  time_zone: Asia/Africa/Europe
   track: Beginner
+  keywork: Saymar
 
 - title: Junpeng Lao
   name: junpeng-lao
