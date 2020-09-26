@@ -587,6 +587,27 @@
   track: Beginner
   keywork: Alidri
 
+- title: Nicoleta Spinu
+  name: nicoleta-spinu
+  subtitle: Speaker
+  twitter: nicospinu
+  github:
+  web:
+  image: Nicoleta_Spinu.jpg
+  thumbnail: Nicoleta_Spinu.jpg
+  alt: Nicoleta
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Nicoleta Spînu is a PhD candidate in Computational Toxicology with a background in pharmaceutical sciences
+    and regulatory affairs looking to have her own impact on the protection of human health while promoting animal welfare (Replacement, Reduction and Refinement of animal testing; "the 3Rs").
+    Research interests include the science of network and causal inference, computational modelling of chemical toxicity, and regulatory toxicology and policy making.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+  keyword:
+
 - title: Evdoxia Taka
   name: evdoxia-taka
   subtitle: Speaker
