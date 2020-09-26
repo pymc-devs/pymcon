@@ -505,6 +505,27 @@
   track: Advanced
   keywork: Pedrez
 
+- title: Elizaveta Semenova
+  name: elizaveta-semenova
+  subtitle: Speaker
+  twitter: liza_p_semenova
+  github: elizavetasemenova
+  web:
+  image: Photo_Liza_square.png
+  thumbnail: Photo_Liza_square.png
+  alt: Elizaveta
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical company.
+    Her interests span Gaussian Processes, Bayesian Neural Networks,
+    compartmental models and differential equations with applications in epidemiology and toxicology.
+    She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
+  presentation_type: Lets Build a Model
+  time_zone:
+  track: Beginner
+
 - title: Ali Akbar Septiandri
   name: ali-akbar-septiandri
   subtitle: Speaker
