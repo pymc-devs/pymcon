@@ -351,6 +351,27 @@
   track: Advanced
   keywork: Timwell
 
+- title: Ruben Mak
+  name: ruben-mak
+  subtitle: Speaker
+  twitter: 
+  github: rubenmak
+  web:
+  image: Ruben_Mak.jpg
+  thumbnail: Ruben_Mak.jpg
+  alt: Ruben
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Back in 2012, Ruben introduced data science at Greenhouse, a digital advertising agency in the Netherlands.
+    He is currently principal data scientist and cluster lead.
+    He’s given several talks at PyData conferences and is one of the founders of PyData Eindhoven.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+  keyword:
+
 - title: Osvaldo Martin
   name: osvaldo-martin
   subtitle: Speaker
