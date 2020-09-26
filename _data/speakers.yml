@@ -247,6 +247,26 @@
   track: Beginner
   keywork: Allney
 
+- title: Dan Foreman-Mackey
+  name: dan-foreman-mackey
+  subtitle: Speaker
+  twitter: exoplaneteer
+  github: dfm
+  web: https://dfm.io/
+  image: Dan_Foreman-Mackey.jpg
+  thumbnail: Dan_Foreman-Mackey.jpg
+  alt: Dan
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dan is an Associate Research Scientist at the Flatiron Institute's Center for Computational Astrophysics
+    studying the application of probabilistic data analysis techniques to solve fundamental problems in astrophysics.
+  presentation_type: Talk
+  time_zone: Americas
+  track: Beginner
+  keyword:
+
 - title: Laura Helleckes
   name: laura-helleckes
   subtitle: Speaker
