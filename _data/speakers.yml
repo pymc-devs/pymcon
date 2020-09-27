@@ -17,6 +17,7 @@
   presentation_type: Keynote
   time_zone:
   track: All
+  keyword: chris
 
 - title: Viola Priesemann
   name: viola-priesemann
@@ -38,6 +39,8 @@
   presentation_type: Keynote
   time_zone:
   track: All
+  keyword: viola
+
 
 - title: Aki Vehtari
   name: aki-vehtari
@@ -57,6 +60,7 @@
   presentation_type: Keynote
   time_zone:
   track: All
+  keyword: aki
 
 - title: Mo Akhshik
   name: mo-akhshik
@@ -140,7 +144,7 @@
     He maintains open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup.
     His current work involves training junior data scientists at Xccelerated.io.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: TBD
   track: Advanced
   keyword: Vindam
 
@@ -163,7 +167,7 @@
     His research involves building and programming of autonomous robots for reaction discovery as well as the development of algorithms for chemical space modelling and data processing.
     Dario obtained a Master degree in Organic chemistry in Rome (2015) and a PhD in the Cronin group (2019).
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Hesehr
 
@@ -234,7 +238,7 @@
     is the Romberg Visiting at Heidelberg in Scientific Computing
     and holds a 5 year Turing AI Fellowship at the Alan Turing Institute where he is also an academic lead.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Timwell
 
@@ -280,7 +284,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keyword:
+  keyword: exoplanet
 
 - title: Laura Helleckes
   name: laura-helleckes
@@ -310,7 +314,7 @@
     During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
     Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Micege
 
@@ -355,9 +359,9 @@
   description: Just finished Master's degree in Data Science.
     Had a great experience expanding the PyMC4 library during this summer's GSoC.
   presentation_type: Let's Build a Model
-  time_zone:
+  time_zone: TBD
   track: Beginner
-  keyword:
+  keyword: rasul
 
 - title: Sayam Kumar
   name: sayam-kumar
@@ -381,7 +385,7 @@
     He loves to travel and study maths in his free time. He also finds Bayesian statistics super awesome.
     He was a Google Summer of Code student with NumFOCUS community and contributed towards adding Variational Inference methods to PyMC4.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Saymar
 
@@ -403,7 +407,7 @@
   description: Junpeng Lao is a pymc developer and currently a data scientist at Google.
     He also contribute to Tensorflow Probability and varies other Open source libraries.
   presentation_type: Tutorial
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Junlao
 
@@ -425,7 +429,7 @@
   description: Mikkel Lykkegaard is a PhD student with the Data Centric Engineering Group and Centre for Water Systems (CWS) at University of Exeter.
     His research is mainly concerned with Uncertainty Quantification (UQ) for computationally intensive forward models.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Timwell
 
@@ -449,7 +453,7 @@
     He is currently principal data scientist and cluster lead.
     He’s given several talks at PyData conferences and is one of the founders of PyData Eindhoven.
   presentation_type: Talk
-  time_zone:
+  time_zone: TBD
   track: Advanced
   keyword:
 
@@ -473,7 +477,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keyword: Osvtin
+  keyword: Pedrez
 
 - title: Hessam Mehr
   name: hessam-mehr
@@ -494,7 +498,7 @@
     He works with an interdisciplinary group of scientists and engineers to build robots and teach them how to do chemistry.
     Since he joined the group in 2018, Hessam's main focus has been the integration of probabilistic reasoning with chemical robotics and discovery.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Hesehr
 
@@ -518,7 +522,7 @@
     He received his PhD from Imperial College London, where he co-designed MCMC algorithms and hardware to accelerate Bayesian inference.
     He has experience in a wide range of projects as a data scientist.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Timwell
 
@@ -576,7 +580,7 @@
     As a PhD student in laboratory automation for bioprocess development at Forschungszentrum Jülich, he writes software to make robots generate his data.
     Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Micege
 
@@ -606,7 +610,7 @@
     I became a core contributor of pymc, learnt a lot in the process and made up my mind to pursue a career outside of academia.
     I am now a machine learning engineer at Innova SpA in Italy.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Lucpaz
 
@@ -660,7 +664,7 @@
     and differential equations with applications in epidemiology and toxicology.
     She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
   presentation_type: Lets Build a Model
-  time_zone:
+  time_zone: Async only
   track: Beginner
   keyword: Eliova
 
@@ -680,7 +684,7 @@
   description: A data scientist and a lecturer.
     Learning/teaching data science, machine learning, and artificial intelligence.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Alidri
 
@@ -703,7 +707,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keyword:
+  keyword: Maxlar
 
 - title: Nicoleta Spinu
   name: nicoleta-spinu
@@ -727,9 +731,9 @@
     and regulatory affairs looking to have her own impact on the protection of human health while promoting animal welfare (Replacement, Reduction and Refinement of animal testing; "the 3Rs").
     Research interests include the science of network and causal inference, computational modelling of chemical toxicity, and regulatory toxicology and policy making.
   presentation_type: Talk
-  time_zone:
+  time_zone: TBD
   track: Beginner
-  keyword:
+  keyword: Nicoleta
 
 - title: Evdoxia Taka
   name: evdoxia-taka
@@ -754,7 +758,7 @@
     She worked as a Research Assistant at the Centre for Research & Technology Hellas in Thessaloniki contributing to various national- and EU-funded research projects in areas such as computer vision, 3D reconstruction and simulation, machine learning.
     She has also worked as a Research Database Engineer for the HCV Research UK project at the Centre for Virus Research of the University of Glasgow.
   presentation_type: Talk
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Evdaka
 
@@ -775,7 +779,7 @@
     He started a few open source packages (whatlies, scikit-lego, clumper and evol) and is also known as co-founding chair of PyData Amsterdam.
     He currently works at Rasa as a Research Advocate where he tries to make NLP algorithms more accessible.
   presentation_type: Let's Build a Model
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Vindam
 
@@ -815,9 +819,9 @@
   proposal_summary: In this tutorial we will build a COVID-19 model from scratch.
   discourse_link:
   youtube_link:
-  description: Thomas is the founder of PyMC Labs, a Bayesian consulting firm.
+  description: Thomas is the founder of [PyMC Labs](https://pymc-labs.github.io), a Bayesian consulting firm.
   presentation_type: Let's Build a Model
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Thocki
 
@@ -840,9 +844,9 @@
     He received his M.Sc. in Computational Mechanics from Aalto University, Finland
     and is currently doing PhD research in Probabilistic Machine Learning group at Aalto.
   presentation_type: Tutorial
-  time_zone:
+  time_zone: TBD
   track: Advanced
-  keyword:
+  keyword: fenics
 
 - title: Rob Zinkov
   name: rob-zinkov
@@ -863,7 +867,6 @@
     My research covers how to more efficiently specify and train deep generative models as well as how to more effectively discover a good statistical model for your data.
     Previously I was a research scientist at Indiana University where I was the lead developer of the Hakaru probabilistic programming language.
   presentation_type: Tutorial
-  time_zone: Asia/Africa/Europe
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Robkov
-# files in css/2017_style/img
