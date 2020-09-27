@@ -575,17 +575,18 @@
   image: Photo_Liza_square.png
   thumbnail: Photo_Liza_square.png
   alt: Elizaveta
-  topic:
-  proposal_summary:
+  topic: Building an ordered logistic regression model for toxicity prediction
+  proposal_summary: We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from  in vitro data and physicochemical properties of compounds.
   discourse_link:
   youtube_link:
   description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical company.
-    Her interests span Gaussian Processes, Bayesian Neural Networks,
-    compartmental models and differential equations with applications in epidemiology and toxicology.
+    Her interests span Gaussian Processes, Bayesian Neural Networks, compartmental models
+    and differential equations with applications in epidemiology and toxicology.
     She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
   presentation_type: Lets Build a Model
   time_zone:
   track: Beginner
+  keyword: Eliova
 
 - title: Ali Akbar Septiandri
   name: ali-akbar-septiandri
@@ -745,7 +746,7 @@
   proposal_summary:
   discourse_link:
   youtube_link:
-  description: van Yashchuk has 3 years’ experience in computational mechanics
+  description: Ivan Yashchuk has 3 years’ experience in computational mechanics
     and scientific computing with occasional contributions to OSS projects.
     He received his M.Sc. in Computational Mechanics from Aalto University, Finland
     and is currently doing PhD research in Probabilistic Machine Learning group at Aalto.
@@ -774,26 +775,4 @@
   time_zone: Asia/Africa/Europe
   track: Beginner
   keyword: Robkov
-
-- title: Elizaveta Semenova
-  name: elizaveta-semenova
-  subtitle: Speaker
-  twitter: liza_p_semenova
-  github: rob-zinkov
-  web:
-  image: Photo_Liza_square.png
-  thumbnail: Photo_Liza_square.png
-  alt: Rob
-  topic: Building an ordered logistic regression model for toxicity prediction
-  proposal_summary: We will build a simple but useful ordered logistic regression model to predict severity of drug-induced liver injury (DILI) from  in vitro data and physicochemical properties of compounds.
-  discourse_link:
-  youtube_link:
-  description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical
-    company. Her interests span Gaussian Processes, Bayesian Neural Networks, compartmental
-    models and differential equations with applications in epidemiology and toxicology.
-    She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
-  presentation_type: Lets Build a Model
-  time_zone:
-  track: Beginner
-  keyword: Eliova
 # files in css/2017_style/img
