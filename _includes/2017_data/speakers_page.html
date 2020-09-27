@@ -16,11 +16,15 @@
             </tr>
           </thead>
           <tbody>
-            {% for speaker in site.data.speakers %}
+            {% assign speakers_by_track = site.data.speakers | group_by:"track" %}
+
+            {% for track in speakers_by_track %}
+            <div id="{{ track.name }}">
+            {% for speaker in track.items %}
             <tr class = "table table-light">
                 <td>
                     <div>
-                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}" 
+                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}"
                         style="max-width: 200px; margin-top: 30px" class="img-responsive img-centered" alt="">
                     </div>
                     <div class="row">
@@ -51,6 +55,8 @@
                     <p class="text-muted small">{{ speaker.track }}</p>
                 </td>
             </tr>
+            {% endfor %}
+            </div>
             {% endfor %}
           </tbody>
         </table>
