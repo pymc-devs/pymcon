@@ -76,7 +76,7 @@
   presentation_type: Talk
   time_zone: Africa/Asia/Europe
   track: Advanced
-  keywork: mohik
+  keyword: mohik
 
 - title: Alex Andorra
   name: alex-andorra
@@ -99,7 +99,7 @@
   presentation_type: Let's Build a Model
   time_zone: Africa/Asia/Europe
   track: Advanced
-  keywork: Alerra
+  keyword: Alerra
 
 - title: Agustina Arroyuelo
   name: agustina-arroyuelo
@@ -118,7 +118,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Aguelo
+  keyword: Aguelo
 
 - title: Matthijs Brouns
   name: matthijs-brouns
@@ -139,7 +139,7 @@
   presentation_type: Let's Build a Model
   time_zone:
   track: Advanced
-  keywork: Vindam
+  keyword: Vindam
 
 - title: Dario Caramelli
   name: dario-caramelli
@@ -160,7 +160,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Hesehr
+  keyword: Hesehr
 
 - title: Tushar Chandra
   name: tushar-chandra
@@ -202,7 +202,7 @@
   presentation_type: Let's Build a Model
   time_zone: Americas
   track: Beginner
-  keywork: Camlon
+  keyword: Camlon
 
 - title: Tim Dodwell
   name: tim-dodwell
@@ -223,7 +223,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
 
 - title: Allen Downey
   name: allen-downey
@@ -245,7 +245,7 @@
   presentation_type: Let's Build a Model
   time_zone: Americas
   track: Beginner
-  keywork: Allney
+  keyword: Allney
 
 - title: Dan Foreman-Mackey
   name: dan-foreman-mackey
@@ -287,7 +287,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Micege
+  keyword: Micege
 
 - title: Michael Johns
   name: michael-johns
@@ -308,13 +308,13 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Michns
+  keyword: Michns
 
 - title: Rasul Karimov
   name: rasul-karimov
   subtitle: Speaker
   twitter: rkarrimov
-  github: rrkarim 
+  github: rrkarim
   web:
   image: Rasul_Karimov.jpg
   thumbnail: Rasul_Karimov.jpg
@@ -349,7 +349,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Saymar
+  keyword: Saymar
 
 - title: Junpeng Lao
   name: junpeng-lao
@@ -369,7 +369,7 @@
   presentation_type: Tutorial
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Junlao
+  keyword: Junlao
 
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
@@ -389,12 +389,12 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
 
 - title: Ruben Mak
   name: ruben-mak
   subtitle: Speaker
-  twitter: 
+  twitter:
   github: rubenmak
   web:
   image: Ruben_Mak.jpg
@@ -432,7 +432,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Osvtin
+  keyword: Osvtin
 
 - title: Hessam Mehr
   name: hessam-mehr
@@ -453,7 +453,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Hesehr
+  keyword: Hesehr
 
 - title: Grigorios Mingas
   name: grigorios-mingas
@@ -474,7 +474,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
 
 - title: Quan Nguyen
   name: quan-nguyen
@@ -495,7 +495,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Quayen
+  keyword: Quayen
 
 - title: Michael Osthege
   name: michael-osthege
@@ -517,7 +517,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Micege
+  keyword: Micege
 
 
 - title: Luciano Paz
@@ -540,7 +540,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Lucpaz
+  keyword: Lucpaz
 
 - title: Pedro German Ramirez
   name: pedro-german-ramirez
@@ -564,7 +564,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Pedrez
+  keyword: Pedrez
 
 - title: Elizaveta Semenova
   name: elizaveta-semenova
@@ -605,7 +605,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Alidri
+  keyword: Alidri
 
 - title: Max Sklar
   name: max-sklar
@@ -670,7 +670,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Evdaka
+  keyword: Evdaka
 
 - title: Vincent D. Warmerdam
   name: vincent-warmerdam
@@ -691,7 +691,7 @@
   presentation_type: Let's Build a Model
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Vindam
+  keyword: Vindam
 
 - title: Zhenyu Wang
   name: zhenyu-wang
@@ -711,7 +711,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Zheang
+  keyword: Zheang
 
 - title: Thomas Wiecki
   name: thomas-wiecki
@@ -730,7 +730,7 @@
   presentation_type: Let's Build a Model
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Thocki
+  keyword: Thocki
 
 - title: Ivan Yashchuk
   name: ivan-yashchuk
@@ -773,7 +773,7 @@
   presentation_type: Tutorial
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Robkov
+  keyword: Robkov
 
 - title: Elizaveta Semenova
   name: elizaveta-semenova
@@ -795,5 +795,5 @@
   presentation_type: Lets Build a Model
   time_zone:
   track: Beginner
-  keywork: Eliova
+  keyword: Eliova
 # files in css/2017_style/img
