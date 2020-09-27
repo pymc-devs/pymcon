@@ -76,7 +76,7 @@
   presentation_type: Talk
   time_zone: Africa/Asia/Europe
   track: Advanced
-  keywork: mohik
+  keyword: mohik
 
 - title: Alex Andorra
   name: alex-andorra
@@ -99,7 +99,7 @@
   presentation_type: Let's Build a Model
   time_zone: Africa/Asia/Europe
   track: Advanced
-  keywork: Alerra
+  keyword: Alerra
 
 - title: Agustina Arroyuelo
   name: agustina-arroyuelo
@@ -118,7 +118,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Aguelo
+  keyword: Aguelo
 
 - title: Matthijs Brouns
   name: matthijs-brouns
@@ -139,7 +139,7 @@
   presentation_type: Let's Build a Model
   time_zone:
   track: Advanced
-  keywork: Vindam
+  keyword: Vindam
 
 - title: Dario Caramelli
   name: dario-caramelli
@@ -160,7 +160,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Hesehr
+  keyword: Hesehr
 
 - title: Tushar Chandra
   name: tushar-chandra
@@ -202,7 +202,7 @@
   presentation_type: Let's Build a Model
   time_zone: Americas
   track: Beginner
-  keywork: Camlon
+  keyword: Camlon
 
 - title: Tim Dodwell
   name: tim-dodwell
@@ -223,7 +223,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
 
 - title: Allen Downey
   name: allen-downey
@@ -245,7 +245,27 @@
   presentation_type: Let's Build a Model
   time_zone: Americas
   track: Beginner
-  keywork: Allney
+  keyword: Allney
+
+- title: Dan Foreman-Mackey
+  name: dan-foreman-mackey
+  subtitle: Speaker
+  twitter: exoplaneteer
+  github: dfm
+  web: https://dfm.io/
+  image: Dan_Foreman-Mackey.jpg
+  thumbnail: Dan_Foreman-Mackey.jpg
+  alt: Dan
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Dan is an Associate Research Scientist at the Flatiron Institute's Center for Computational Astrophysics
+    studying the application of probabilistic data analysis techniques to solve fundamental problems in astrophysics.
+  presentation_type: Talk
+  time_zone: Americas
+  track: Beginner
+  keyword:
 
 - title: Laura Helleckes
   name: laura-helleckes
@@ -267,7 +287,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Micege
+  keyword: Micege
 
 - title: Michael Johns
   name: michael-johns
@@ -288,12 +308,32 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Michns
+  keyword: Michns
+
+- title: Rasul Karimov
+  name: rasul-karimov
+  subtitle: Speaker
+  twitter: rkarrimov
+  github: rrkarim
+  web:
+  image: Rasul_Karimov.jpg
+  thumbnail: Rasul_Karimov.jpg
+  alt: Rasul
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Just finished Master's degree in Data Science.
+    Had a great experience expanding the PyMC4 library during this summer's GSoC.
+  presentation_type: Let's Build a Model
+  time_zone:
+  track: Beginner
+  keyword:
 
 - title: Sayam Kumar
   name: sayam-kumar
   subtitle: Speaker
-  twitter: Sayam753
+  twitter: sayamkumar753
   github: Sayam753
   web: https://www.codingpaths.com/
   image: Sayam_Kumar.jpg
@@ -309,7 +349,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Saymar
+  keyword: Saymar
 
 - title: Junpeng Lao
   name: junpeng-lao
@@ -329,7 +369,7 @@
   presentation_type: Tutorial
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Junlao
+  keyword: Junlao
 
 - title: Mikkel Lykkegaard
   name: mikkel-lykkegaard
@@ -349,7 +389,28 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
+
+- title: Ruben Mak
+  name: ruben-mak
+  subtitle: Speaker
+  twitter:
+  github: rubenmak
+  web:
+  image: Ruben_Mak.jpg
+  thumbnail: Ruben_Mak.jpg
+  alt: Ruben
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Back in 2012, Ruben introduced data science at Greenhouse, a digital advertising agency in the Netherlands.
+    He is currently principal data scientist and cluster lead.
+    He’s given several talks at PyData conferences and is one of the founders of PyData Eindhoven.
+  presentation_type: Talk
+  time_zone:
+  track: Advanced
+  keyword:
 
 - title: Osvaldo Martin
   name: osvaldo-martin
@@ -371,7 +432,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Osvtin
+  keyword: Osvtin
 
 - title: Hessam Mehr
   name: hessam-mehr
@@ -392,7 +453,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Hesehr
+  keyword: Hesehr
 
 - title: Grigorios Mingas
   name: grigorios-mingas
@@ -413,7 +474,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Timwell
+  keyword: Timwell
 
 - title: Quan Nguyen
   name: quan-nguyen
@@ -434,7 +495,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Quayen
+  keyword: Quayen
 
 - title: Michael Osthege
   name: michael-osthege
@@ -456,7 +517,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Micege
+  keyword: Micege
 
 
 - title: Luciano Paz
@@ -479,7 +540,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Lucpaz
+  keyword: Lucpaz
 
 - title: Pedro German Ramirez
   name: pedro-german-ramirez
@@ -503,7 +564,28 @@
   presentation_type: Talk
   time_zone: Americas
   track: Advanced
-  keywork: Pedrez
+  keyword: Pedrez
+
+- title: Elizaveta Semenova
+  name: elizaveta-semenova
+  subtitle: Speaker
+  twitter: liza_p_semenova
+  github: elizavetasemenova
+  web:
+  image: Photo_Liza_square.png
+  thumbnail: Photo_Liza_square.png
+  alt: Elizaveta
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Elizaveta is currently a postdoc in Bayesian Machine Learning at a pharmaceutical company.
+    Her interests span Gaussian Processes, Bayesian Neural Networks,
+    compartmental models and differential equations with applications in epidemiology and toxicology.
+    She is tool agnostic and builds probabilistic models in either Stan, PyMC3 or Turing.
+  presentation_type: Lets Build a Model
+  time_zone:
+  track: Beginner
 
 - title: Ali Akbar Septiandri
   name: ali-akbar-septiandri
@@ -523,7 +605,48 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Alidri
+  keyword: Alidri
+
+- title: Max Sklar
+  name: max-sklar
+  subtitle: Speaker
+  twitter: maxsklar
+  github: maxsklar
+  web: www.localmaxradio.com
+  image: max_sklar.png
+  thumbnail: max_sklar.png
+  alt: Max
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Max Sklar is a machine learning engineer and a member of the innovation labs team at Foursquare.
+    He hosts a weekly podcast called The Local Maximum which covers a broad range of current issues, including a focus on Bayesian Inference.
+  presentation_type: Talk
+  time_zone: Americas
+  track: Beginner
+  keyword:
+
+- title: Nicoleta Spinu
+  name: nicoleta-spinu
+  subtitle: Speaker
+  twitter: nicospinu
+  github:
+  web:
+  image: Nicoleta_Spinu.jpg
+  thumbnail: Nicoleta_Spinu.jpg
+  alt: Nicoleta
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: Nicoleta Spînu is a PhD candidate in Computational Toxicology with a background in pharmaceutical sciences
+    and regulatory affairs looking to have her own impact on the protection of human health while promoting animal welfare (Replacement, Reduction and Refinement of animal testing; "the 3Rs").
+    Research interests include the science of network and causal inference, computational modelling of chemical toxicity, and regulatory toxicology and policy making.
+  presentation_type: Talk
+  time_zone:
+  track: Beginner
+  keyword:
 
 - title: Evdoxia Taka
   name: evdoxia-taka
@@ -547,7 +670,7 @@
   presentation_type: Talk
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Evdaka
+  keyword: Evdaka
 
 - title: Vincent D. Warmerdam
   name: vincent-warmerdam
@@ -568,7 +691,7 @@
   presentation_type: Let's Build a Model
   time_zone: Asia/Africa/Europe
   track: Advanced
-  keywork: Vindam
+  keyword: Vindam
 
 - title: Zhenyu Wang
   name: zhenyu-wang
@@ -588,7 +711,7 @@
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
-  keywork: Zheang
+  keyword: Zheang
 
 - title: Thomas Wiecki
   name: thomas-wiecki
@@ -607,7 +730,29 @@
   presentation_type: Let's Build a Model
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Thocki
+  keyword: Thocki
+
+- title: Ivan Yashchuk
+  name: ivan-yashchuk
+  subtitle: Speaker
+  twitter:
+  github:
+  web:
+  image: Ivan_Yashchuk.jpg
+  thumbnail: Ivan_Yashchuk.jpg
+  alt: Ivan
+  topic:
+  proposal_summary:
+  discourse_link:
+  youtube_link:
+  description: van Yashchuk has 3 years’ experience in computational mechanics
+    and scientific computing with occasional contributions to OSS projects.
+    He received his M.Sc. in Computational Mechanics from Aalto University, Finland
+    and is currently doing PhD research in Probabilistic Machine Learning group at Aalto.
+  presentation_type: Tutorial
+  time_zone:
+  track: Advanced
+  keyword:
 
 - title: Rob Zinkov
   name: rob-zinkov
@@ -628,7 +773,7 @@
   presentation_type: Tutorial
   time_zone: Asia/Africa/Europe
   track: Beginner
-  keywork: Robkov
+  keyword: Robkov
 
 - title: Elizaveta Semenova
   name: elizaveta-semenova
@@ -650,5 +795,5 @@
   presentation_type: Lets Build a Model
   time_zone:
   track: Beginner
-  keywork: Eliova
+  keyword: Eliova
 # files in css/2017_style/img
