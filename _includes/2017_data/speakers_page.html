@@ -6,25 +6,48 @@
                 <h3></h3>
             </div>
         <div class="table-responsive">
+            {% assign speakers_by_timezone = site.data.speakers | group_by:"time_zone" %}
+            {% for timezone in speakers_by_timezone %}
+
+            {% assign speakers_by_track = timezone.items | group_by: "track" %}
+            {% assign speakers_by_track = speakers_by_track | sort: "name" | reverse %}
+            {% for track in speakers_by_track %}
             <table class="table table-hover " style = "width:90%; margin-left:auto; margin-right:auto;">
           <thead class="thead-dark" style="text-align:center">
             <tr>
-              <th scope="col">Speakers</th>
-              <th scope="col">Description</th>
-              <th scope="col">Proposal Type</th>
-              <th scope="col">Track</th>
+              {% if timezone.name != null and timezone.name != "" %}
+                <th scope="col">Time zone: {{ timezone.name }}</th>
+              {% else %}
+                <th scope="col"></th>
+              {% endif %}
+              <th scope="col">Track: {{ track.name }}</th>
             </tr>
           </thead>
           <tbody>
-            {% for speaker in site.data.speakers %}
+
+            {% assign speakers_by_talk = track.items | group_by:"keyword" %}
+            {% for talk in speakers_by_talk %}
+
+            {% for speaker in talk.items %}
+            {% if forloop.first == true %}
+            <tr class = "table table-light top-line">
+              <td style="text-align:center;">
+                <p class="text-muted small">{{ speaker.presentation_type }}</p>
+              </td>
+              <td>
+                <p class="text-muted">{{ speaker.topic }}</p>
+                  {{ speaker.proposal_summary | markdownify | replace: '<p>', '<p class="text-muted small">' }}
+              </td>
+            </tr>
+            {% endif %}
             <tr class = "table table-light">
                 <td>
                     <div>
-                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}" 
+                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}"
                         style="max-width: 200px; margin-top: 30px" class="img-responsive img-centered" alt="">
                     </div>
                     <div class="row">
-                        <div class="speakers-caption"  style="text-align:center">
+                      <div class="speakers-caption"  style="text-align:center">
                         <h3>{{ speaker.title }}</h3>
                         <ul class="list-inline social-buttons">
                           {% if speaker.twitter %}
@@ -37,23 +60,19 @@
                             <li><a href="{{ speaker.web }}"><i class="fa fa-link"></i></a></li>
                           {% endif %}
                         </ul>
-                    </div>
+                      </div>
                     </div>
                 </td>
                 <td style="max-width:300px">
-                    <p class="text-muted">{{ speaker.subtitle }}</p>
-                    <p class="text-muted small">{{ speaker.description }}</p>
-                </td>
-                <td style="text-align:center;">
-                    <p class="text-muted small">{{ speaker.presentation_type }}</p>
-                </td>
-                <td style="text-align:center;">
-                    <p class="text-muted small">{{ speaker.track }}</p>
+                  {{ speaker.description | markdownify | replace: '<p>', '<p class="text-muted small">' }}
                 </td>
             </tr>
             {% endfor %}
+            {% endfor %}
           </tbody>
         </table>
+        {% endfor %}
+        {% endfor %}
         </div>
         </div>
     </section>
