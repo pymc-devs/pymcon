@@ -30,6 +30,10 @@ th {
   border-top: 2px solid #dee2e6;
 }
 
+.top-line {
+  border-top: 3px solid #424c57;
+}
+
 .table-sm th,
 .table-sm td {
   padding: 0.3rem;

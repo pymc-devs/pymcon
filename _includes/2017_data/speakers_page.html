@@ -30,11 +30,12 @@
 
             {% for speaker in talk.items %}
             {% if forloop.first == true %}
-            <tr class = "table table-light">
+            <tr class = "table table-light top-line">
               <td style="text-align:center;">
                 <p class="text-muted small">{{ speaker.presentation_type }}</p>
               </td>
               <td>
+                <p class="text-muted">{{ speaker.topic }}</p>
                 <p class="text-muted small">{{ speaker.proposal_summary | markdownify | remove: '<p>' | remove: '</p>'}}</p>
               </td>
             </tr>
