@@ -8,9 +8,13 @@
   thumbnail: Fonnesbeck.png
   alt: Chris
   topic:
-  description: Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees.
+  description: "Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees.
+
+
     He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis.
-    He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia.
+
+
+    He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia."
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -29,10 +33,16 @@
   thumbnail: Viola.jpg
   alt: Viola
   topic:
-  description: Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization.
+  description: "Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization.
+
+
     She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation.
+
+
     With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies.
-    Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg.
+
+
+    Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg."
   proposal_summary:
   discourse_link:
   youtube_link:
@@ -50,9 +60,14 @@
   web: https://users.aalto.fi/~ave/
   image: Aki_Vehtari_Aalto.jpg
   thumbnail: Aki_Vehtari_Aalto.jpg
-#  image: Aki_Large.jpg
-#  thumbnail: Aki_Large.jpg
   alt: Aki
+  description: "Aki is an Associate professor in computational probabilistic modeling at Aalto University, Finland.
+
+
+His numerous research interests are Bayesian probability theory and methodology, especially probabilistic programming, inference methods, model assessment and selection, non-parametric models such as Gaussian processes, dynamic models, and hierarchical models.
+
+
+Aki is also a co-author of the popular and awarded book « Bayesian Data Analysis », Third Edition, and the brand new « Regression and other stories ». He is also a core-developer of the seminal probabilistic programming framework Stan. An enthusiast of open-source software, Aki has been involved in many free software projects such as GPstuff for Gaussian processes and ELFI for likelihood inference."
   topic:
   proposal_summary:
   discourse_link:
@@ -136,17 +151,21 @@
   image: matthijs-brounds.jpeg
   thumbnail: matthijs-brounds.jpeg
   alt: Matthijs
-  topic: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors
-  proposal_summary: Priors of Great Potential - How you can add Fairness Constraints to Models using Priors
+  topic: Hierarchical time series with Prophet and PyMC3
+  proposal_summary: When doing time-series modelling, you often end up in a situation where you want to make long-term predictions for multiple, related, time-series. In this talk, we’ll build an hierarchical version of Facebook’s Prophet package to do exactly that
   discourse_link:
   youtube_link:
-  description: Matthijs spends a fair amount of time contributing to our open scientific computing ecosystem through various means.
-    He maintains open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup.
-    His current work involves training junior data scientists at Xccelerated.io.
+  description: "I’m a data scientist, active in Amsterdam, The Netherlands. My current work involves training junior data scientists at Xccelerated.io. This means I divide my time between building new training materials and exercises, giving live trainings and acting as a sparring partner for the Xccelerators at our partner firms, as well as doing some consulting work on the side.
+
+
+I spent a fair amount of time contributing to our open scientific computing ecosystem through various means. I maintain open source packages (scikit-lego, seers) as well as co-chair the PyData Amsterdam conference and meetup and vice-chair the PyData Global conference.
+
+
+In my spare time I like to go mountain biking, bouldering, do some woodworking or go scuba diving."
   presentation_type: Let's Build a Model
   time_zone: TBD
   track: Advanced
-  keyword: Vindam
+  keyword: Prophet
 
 - title: Dario Caramelli
   name: dario-caramelli
@@ -276,7 +295,7 @@
   thumbnail: Dan_Foreman-Mackey.jpg
   alt: Dan
   topic: The why and how of one domain-specific PyMC3 extension
-  proposal_summary: The why and how of one domain-specific PyMC3 extension
+  proposal_summary: "In this talk I will describe some of the unique challenges encountered in probabilistic modeling for astrophysics and some approaches taken to overcome these obstacles. In particular, I will discuss the motivation for and development of the domain-specific `exoplanet` package. This library implements a suite of custom Theano ops to evaluate astronomy-specific functions and their gradients, custom PyMC3 distributions for physically-motivated reparameterizations, and functions to help astronomers port existing habits to the PyMC3 ecosystem. `exoplanet` also includes an implementation of scalable Gaussian Process regression in one dimension that is generally applicable beyond astrophysics. Besides these technical details, I will also discuss some of the barriers that exist for domain scientists who are new to PyMC3, and some proposals for lowering these barriers."
   discourse_link:
   youtube_link:
   description: Dan is an Associate Research Scientist at the Flatiron Institute's Center for Computational Astrophysics
@@ -309,10 +328,12 @@
     Join us for the talk and discussion to learn about building Bayesian models for bioassays and dive into the fascinatingly frightening world of non-linear measurement errors!"
   discourse_link:
   youtube_link:
-  description: A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
+  description: "A biotechnologist by training, Laura transitioned to Data Science in the past years and is now a Bayesian enthusiast.
+
+
     In her Master’s thesis, she _actually_ collected the data Michael was using for his fancy Bayesian models.
     During her wet lab experience, Laura gained valuable knowledge on microorganisms and biological processes that she is now applying to implement mechanistic process models.
-    Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich.
+    Her experimental work also gave her the motivation to focus on lab automation for bioprocess development in her PhD at Forschungszentrum Jülich."
   presentation_type: Talk
   time_zone: Africa/Asia/Europe
   track: Beginner
@@ -352,8 +373,7 @@
   thumbnail: Rasul_Karimov.jpg
   alt: Rasul
   topic: PyMC4 MCMC sampling interface
-  proposal_summary: We will build some example models, will discover the strong sides of using Tensorflow Probability backend for highly parallel MCMC sampling.
-    The current realization of the API and the next steps of the feature expansion and codebase refactoring will be reviewed and discussed.
+  proposal_summary: We will build some example models, will discover the strong sides of using Tensorflow Probability backend for highly parallel MCMC sampling. The current realization of the API and the next steps of the feature expansion and codebase refactoring will be reviewed and discussed.
   discourse_link:
   youtube_link:
   description: Just finished Master's degree in Data Science.
@@ -404,7 +424,7 @@
     Come to this tutorial to find out!
   discourse_link:
   youtube_link:
-  description: Junpeng Lao is a pymc developer and currently a data scientist at Google.
+  description: Junpeng Lao is a PyMC developer and currently a data scientist at Google.
     He also contribute to Tensorflow Probability and varies other Open source libraries.
   presentation_type: Tutorial
   time_zone: Africa/Asia/Europe
@@ -575,10 +595,10 @@
     Join us for the talk and discussion to learn about building Bayesian models for bioassays and dive into the fascinatingly frightening world of non-linear measurement errors!"
   discourse_link:
   youtube_link:
-  description: Michael Osthege is a biotech Bayesian by choice.
+  description: "Michael Osthege is a biotech Bayesian by choice.
     He likes to work with robots, bacteria and models as much as he loves to work in enthusiastic teams.
     As a PhD student in laboratory automation for bioprocess development at Forschungszentrum Jülich, he writes software to make robots generate his data.
-    Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models.
+    Since he unit-tests his code, he always blames the robots if the data doesn't agree with his Bayesian models."
   presentation_type: Talk
   time_zone: Africa/Asia/Europe
   track: Beginner
@@ -594,20 +614,13 @@
   image: luciano-paz.png
   thumbnail: luciano-paz.png
   alt: Luciano
-  topic: Forward sampling in pymc
-  proposal_summary: Pymc is great for infering parameter values in a model given some observations,
-    but sometimes we also want to generate random samples from the model either as predictions given what we already inferred from the observed data,
-    or we just want to generate synthetic data that's compatible with the model we built.
-    These two kinds of sampling are called posterior predictive and prior predictive sampling, and are collectively called forward sampling.
-    Forward sampling can be hard.
-    The typical problems that show up are related to shape mismatches in hierarchical models,
-    latent categorical values that aren't correctly re-sampled or changing the shape of the data between the training and test phases.
-    In this talk I'll talk about how forward sampling is implemented in pymc3 and pymc4, and give some tips on how to deal with the typical problems that show up when we want to generate forward samples.
+  topic: "Forward sampling in PyMC"
+  proposal_summary: "PyMC is great for infering parameter values in a model given some observations, but sometimes we also want to generate random samples from the model either as predictions given what we already inferred from the observed data, or we just want to generate synthetic data that's compatible with the model we built. These two kinds of sampling are called posterior predictive and prior predictive sampling, and are collectively called forward sampling. Forward sampling can be hard. The typical problems that show up are related to shape mismatches in hierarchical models, latent categorical values that aren't correctly re-sampled or changing the shape of the data between the training and test phases. In this talk I'll talk about how forward sampling is implemented in PyMC3 and PyMC4, and give some tips on how to deal with the typical problems that show up when we want to generate forward samples."
   discourse_link:
   youtube_link:
   description: I got into Bayesian stats during my PhD in cognitive neuroscience.
-    During my postdoc I got more involved with machine learning, and discovered pymc3.
-    I became a core contributor of pymc, learnt a lot in the process and made up my mind to pursue a career outside of academia.
+    During my postdoc I got more involved with machine learning, and discovered PyMC3.
+    I became a core contributor of PyMC, learnt a lot in the process and made up my mind to pursue a career outside of academia.
     I am now a machine learning engineer at Innova SpA in Italy.
   presentation_type: Talk
   time_zone: Africa/Asia/Europe
@@ -624,17 +637,7 @@
   thumbnail: profile_pgr.jpg
   alt: Pedro
   topic: "Sequential Monte Carlo: Introduction and diagnostics"
-  proposal_summary: 'Sequential Monte Carlo (also known as particle filters) were initially confined to the so-called "filtering problem" (the sequential analysis of state-space models),
-    but they popularity has been growing in other areas including non-sequential tasks like estimating a single posterior distribution, i.e. the typical task performed by pm.sample().
-    For such cases SMC samplers has been presented as alternatives to MCMC methods.
-    Some advantages often listed in the literature are: simple way of estimating the marginal likelihood (generally for the purpose of model choice),
-    easier parallelization, easier design of adaptative methods, and ability to deal with multi-modal posteriors.
-    The literature usually fails to acknowledge that SMC methods are a less mature alternative when compared to Hamiltonian Monte Carlo methods, such as the nuts sampler in PyMC3, Stan, etc.
-    SMC methods are also the base for the most advanced Approximate Bayesian Computation (ABC) methods,
-    which are also increasingly used to solve complex problems in fields like polulation genetics, systems biology, astronomy among others.
-    The literature on SMC and SMC-ABC methods can be puzzling for newcomers as the same methods has more than one name or sometimes different names correspond to the same method or concept.
-    In this talk we will provide a brief introduction to SMC methods specially focused on clarifying the key concepts
-    and terminology necessary to use SMC methods in practice, and then we will focus on how to diagnose SMC, including results from preliminary experiments.'
+  proposal_summary: In this talk we will provide a brief introduction to Sequential Monte Carlo (SMC) methods and provide a guide to diagnose posterior samples computed using SMC.
   discourse_link:
   youtube_link:
   description: In the year 2014 I completed my Bs. in Molecular Biology at the National University of San Luis, Argentina
@@ -857,7 +860,7 @@
   image: rob-zinkov.jpeg
   thumbnail: rob-zinkov.jpeg
   alt: Rob
-  topic: In this tutorial we will build a COVID-19 model from scratch.
+  topic:
   proposal_summary: Have you ever written a model in PyMC3 and aren't sure if it's any good?
     In this talk I will show you the many ways you can evaluate how will your model fits your data using PyMC3.
     Not all these techniques may be applicable for your particular problem but you will definitely walk away with a few new tricks for being confident in the models you fit.

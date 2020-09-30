@@ -36,7 +36,7 @@
               </td>
               <td>
                 <p class="text-muted">{{ speaker.topic }}</p>
-                <p class="text-muted small">{{ speaker.proposal_summary | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+                  {{ speaker.proposal_summary | markdownify | replace: '<p>', '<p class="text-muted small">' }}
               </td>
             </tr>
             {% endif %}
@@ -64,7 +64,7 @@
                     </div>
                 </td>
                 <td style="max-width:300px">
-                  <p class="text-muted small">{{ speaker.description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+                  {{ speaker.description | markdownify | replace: '<p>', '<p class="text-muted small">' }}
                 </td>
             </tr>
             {% endfor %}
