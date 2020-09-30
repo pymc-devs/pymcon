@@ -127,6 +127,15 @@ aside.clients,
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.btn-complementary {
+    border-color: #{{ site.data.template.color.complementary }};
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+    color: #fff;
+    background-color: #{{ site.data.template.color.complementary }};
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
@@ -173,19 +182,16 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
 }
 
+.btn-huge {
+    padding: 30px 60px;
+    font-size: 22px;
+    font-weight: 800;
+}
+
 .btn-sm {
     padding: 10px 20px;
     font-size: 14px;
     font-weight: 700;
-}
-
-.btn-sm, .btn-xl {
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
-    border-color: #{{ site.data.template.color.primary }};
-    border-radius: 3px;
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
 }
 
 .btn-sm:hover,
