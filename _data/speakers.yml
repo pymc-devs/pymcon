@@ -96,7 +96,7 @@ Aki is also a co-author of the popular and awarded book « Bayesian Data Analysi
   description: Mo is a grad student of (astro)physics by day, a matheux and a Bayesian enthusiast all along.
     Broadly interested in cosmology and probability too.
   presentation_type: Talk
-  time_zone: Africa/Asia/Europe
+  time_zone: Americas
   track: Advanced
   keyword: mohik
 
@@ -133,10 +133,10 @@ Aki is also a co-author of the popular and awarded book « Bayesian Data Analysi
   thumbnail: Agustina_Arroyuelo.jpg
   alt: Agustina
   topic: Studying glycan 3D structures with PyMC3 and ArviZ
-  proposal_summary: I will describe how to model glycan torsion angles with PyMC3 and ArviZ.
+  proposal_summary: I will present an introduction to circular variables, mostly related to my work in ArviZ during the last GSoC and I will offer a glimpse on how to use PyMC3 and ArviZ to explore biomolecules 3d shapes.
   discourse_link:
   youtube_link:
-  description: Agustina is a PhD student in the field of structural bioinformatics.
+  description: I am a PhD candidate in Biology. In my research, I apply Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. I enjoy contributing to open source software and have participated in the Google Summer of Code program with PyMC3 and ArviZ.
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
