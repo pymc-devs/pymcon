@@ -163,7 +163,7 @@ I spent a fair amount of time contributing to our open scientific computing ecos
 
 In my spare time I like to go mountain biking, bouldering, do some woodworking or go scuba diving."
   presentation_type: Let's Build a Model
-  time_zone: TBD
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: Prophet
 
@@ -379,7 +379,7 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
   description: Just finished Master's degree in Data Science.
     Had a great experience expanding the PyMC4 library during this summer's GSoC.
   presentation_type: Let's Build a Model
-  time_zone: TBD
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: rasul
 
@@ -473,7 +473,7 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
     He is currently principal data scientist and cluster lead.
     He’s given several talks at PyData conferences and is one of the founders of PyData Eindhoven.
   presentation_type: Talk
-  time_zone: TBD
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword:
 
@@ -734,7 +734,7 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
     and regulatory affairs looking to have her own impact on the protection of human health while promoting animal welfare (Replacement, Reduction and Refinement of animal testing; "the 3Rs").
     Research interests include the science of network and causal inference, computational modelling of chemical toxicity, and regulatory toxicology and policy making.
   presentation_type: Talk
-  time_zone: TBD
+  time_zone: Africa/Asia/Europe
   track: Beginner
   keyword: Nicoleta
 
@@ -847,7 +847,7 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
     He received his M.Sc. in Computational Mechanics from Aalto University, Finland
     and is currently doing PhD research in Probabilistic Machine Learning group at Aalto.
   presentation_type: Tutorial
-  time_zone: TBD
+  time_zone: Africa/Asia/Europe
   track: Advanced
   keyword: fenics
 
