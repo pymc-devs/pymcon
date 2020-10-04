@@ -68,8 +68,11 @@ His numerous research interests are Bayesian probability theory and methodology,
 
 
 Aki is also a co-author of the popular and awarded book « Bayesian Data Analysis », Third Edition, and the brand new « Regression and other stories ». He is also a core-developer of the seminal probabilistic programming framework Stan. An enthusiast of open-source software, Aki has been involved in many free software projects such as GPstuff for Gaussian processes and ELFI for likelihood inference."
-  topic:
-  proposal_summary:
+  topic: These are a few of my favorite inference diagnostics
+  proposal_summary: I discuss some old and some more recent inference diagnostics methods for
+    Markov chain Monte Carlo, importance sampling, and variational inference. When
+    the convergence fails, I simply remember my favorite inference diagnostics, and
+    then I don't feel so bad.
   discourse_link:
   youtube_link:
   presentation_type: Keynote
