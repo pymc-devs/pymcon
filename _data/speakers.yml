@@ -133,10 +133,10 @@ Aki is also a co-author of the popular and awarded book « Bayesian Data Analysi
   thumbnail: Agustina_Arroyuelo.jpg
   alt: Agustina
   topic: Studying glycan 3D structures with PyMC3 and ArviZ
-  proposal_summary: I will present an introduction to circular variables, mostly related to my work in ArviZ during the last GSoC and I will offer a glimpse on how to use PyMC3 and ArviZ to explore biomolecules 3d shapes.
+  proposal_summary: Interest for circular variables is present across a very diverse array of applied fields, from social and political sciences to geology and biology. They are very useful for the statistical modelling of, time, wind directions, bond angles between atoms or even swimming pattern in fish. In this talk, I will present an introduction to circular variables, mostly related to my work in ArviZ during the last GSoC and I will offer a glimpse on how to use PyMC3 and ArviZ to explore biomolecules 3D shapes.
   discourse_link:
   youtube_link:
-  description: I am a PhD candidate in Biology. In my research, I apply Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. I enjoy contributing to open source software and have participated in the Google Summer of Code program with PyMC3 and ArviZ.
+  description:  I am a PhD candidate in Biology. In my research, I apply Bayesian statistics to biomolecular structure determination and validation, i.e. finding the 3-dimensional shape of biomolecules and evaluating if that shape is a good model. I enjoy contributing to open source software. I have participated in the Google Summer of Code program with PyMC3 and ArviZ and I recently been incorporated to ArviZ core developers team.
   presentation_type: Talk
   time_zone: Americas
   track: Beginner
