@@ -174,7 +174,7 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
 
 - title: Christian Luhmann
   name: Christian_Luhmann
-  subtitle: Reviewer
+  subtitle: Technology Committee
   twitter: 1010is10
   github: cluhmann
   web: https://cluhmann.github.io
@@ -183,3 +183,16 @@ Sid was born in New Delhi and did a large share of his growing up in Melbourne. 
   alt: Picture of Christian
   topic: "Faculty at Stony Brook University focusing on computational (often Bayesian) models behavior-related data."
   description: "Christian Luhmann holds a BS in computer science and a PhD in psychology. He is faculty at Stony Brook University, where his research involves modeling behavior, often with applications to behavioral economics and health-related data. His interests draw him to problems in which computation/statistics/tech and human beings bump into one another. Most recently this has meant forays into the world of interpretable machine learning."
+
+
+- title: Corrie Bartelheimer
+  name: Corrie_Bartelheimer
+  subtitle: Planning Committee
+  twitter: corrieaar 
+  github: corriebar
+  web: https://www.samples-of-thoughts.com/ 
+  thumbnail: Corrie.jpg
+  img: Corrie.jpg
+  alt: Picture of Corrie
+  topic: "Data Scientist enthusiastic about Bayesian stats, hierarchical models and waffles."
+  description: "Corrie is a Data Scientist soon starting a new position at Dalia Research where she'll be using Bayesian methods such as MRP for brand tracking. She also co-organizes the Berlin Bayesian meetup group though she recently moved to Brussels which definitely has the better waffles. Apart from Bayesian Statistics and waffles, she's also enthusiastic about data visualization and about using data science to help with social issues such as disinformation."
