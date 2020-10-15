@@ -366,26 +366,6 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
   track: Beginner
   keyword: Michns
 
-- title: Rasul Karimov
-  name: rasul-karimov
-  subtitle: Speaker
-  twitter: rkarrimov
-  github: rrkarim
-  web:
-  image: Rasul_Karimov.jpg
-  thumbnail: Rasul_Karimov.jpg
-  alt: Rasul
-  topic: PyMC4 MCMC sampling interface
-  proposal_summary: We will build some example models, will discover the strong sides of using Tensorflow Probability backend for highly parallel MCMC sampling. The current realization of the API and the next steps of the feature expansion and codebase refactoring will be reviewed and discussed.
-  discourse_link:
-  youtube_link:
-  description: Just finished Master's degree in Data Science.
-    Had a great experience expanding the PyMC4 library during this summer's GSoC.
-  presentation_type: Let's Build a Model
-  time_zone: Africa/Asia/Europe
-  track: Beginner
-  keyword: rasul
-
 - title: Sayam Kumar
   name: sayam-kumar
   subtitle: Speaker
