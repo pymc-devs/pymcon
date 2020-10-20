@@ -597,8 +597,8 @@ In my spare time I like to go mountain biking, bouldering, do some woodworking o
   image: luciano-paz.png
   thumbnail: luciano-paz.png
   alt: Luciano
-  topic: "Forward sampling in PyMC"
-  proposal_summary: "PyMC is great for infering parameter values in a model given some observations, but sometimes we also want to generate random samples from the model either as predictions given what we already inferred from the observed data, or we just want to generate synthetic data that's compatible with the model we built. These two kinds of sampling are called posterior predictive and prior predictive sampling, and are collectively called forward sampling. Forward sampling can be hard. The typical problems that show up are related to shape mismatches in hierarchical models, latent categorical values that aren't correctly re-sampled or changing the shape of the data between the training and test phases. In this talk I'll talk about how forward sampling is implemented in PyMC3 and PyMC4, and give some tips on how to deal with the typical problems that show up when we want to generate forward samples."
+  topic: "Posterior Predictive Sampling in PyMC3"
+  proposal_summary: "PyMC3 is great for inferring parameter values in a model given some observations, but sometimes we also want to generate random samples from the model as predictions given what we already inferred from the observed data. This kind of sampling is called posterior predictive sampling, and it can be very hard. The typical problems that show up are related to shape mismatches in hierarchical models, latent categorical values that aren’t correctly re-sampled or changing the shape of the data between the training and test phases. In this presentation I’ll talk about how posterior predictive sampling is implemented in PyMC3, show some typical situations where it fails, and how to make it work."
   discourse_link:
   youtube_link:
   description: I got into Bayesian stats during my PhD in cognitive neuroscience.
