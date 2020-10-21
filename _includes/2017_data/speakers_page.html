@@ -40,10 +40,10 @@
               </td>
             </tr>
             {% endif %}
-            <tr class = "table table-light">
+            <tr id="{{ speaker.name }}-r" class = "table table-light">
                 <td>
                     <div>
-                    <img src="./css/2017_style/img/speakers/{{ speaker.thumbnail }}"
+                        <img src="{{site.url}}/css/2017_style/img/speakers/{{ speaker.thumbnail }}"
                         style="max-width: 200px; margin-top: 30px" class="img-responsive img-centered" alt="">
                     </div>
                     <div class="row">
