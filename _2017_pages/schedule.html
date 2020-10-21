@@ -2,119 +2,331 @@
 layout: 2017_default
 permalink: /schedule
 title: Schedule of Events
-description: "Stay tuned for updates!"
+description: "Schedule of talks"
 ---
     <!--background color-->
 
-    <section id="conference" class="cfp cfp-container cfp-container-top">
+    <section id="conference" style = "margin:50px" class="cfp cfp-container cfp-container-top">
       <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading" style="width:100%"  >{{ page.title }}</h2>
             </div>
       </div>
-      <div class="table-responsive col-lg-12">
+      <div class="table-responsive table-condensed" style="overflow: auto">
         <table class="table table-hover">
           <thead class="thead-dark" style="text-align:center;">
             <tr>
-              <th scope="col">Time</th>
-              <th scope="col">Track 1</th>
-              <th scope="col">Track 2</th>
-              <th scope="col">Track 3</th>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2" style="text-align:left; max-width:80px">UTC + 0</th>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2" style="text-align:left;">UTC - 7</th>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2">Track 1</th>
+              <th scope="col" class="col-md-3 col-lg-3 col-sm-3">Track 2</th>
+              <th scope="col" class="col-md-3 col-lg-3 col-sm-3">Track 3</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <th scope="row">9:30 AM</th>
+              <th scope="row">9:00 AM</th>
+              <th scope="row">2:00 AM</th>
               <td rowspan="2" colspan="3" style="text-align:center;" class="table-warning">Welcome and Orientation</td>
             </tr>
             <tr class="table-light">
-              <th scope="row">9:45 AM</th>
+              <th scope="row">9:15 AM</th>
+              <th scope="row">2:15 AM</th>
             </tr>
             <tr >
-              <th scope="row">10:00 AM</th>
-              <td rowspan="3" colspan="3", class="table-success" style="text-align:center;">
+              <th scope="row">9:30 AM</th>
+              <th scope="row">2:30 AM</th>
+              <td rowspan="3" colspan="3" class="table-success" style="text-align:center;">
                   <b>Keynote 1</b><br>Chris Fonnesbeck
               </td>
             </tr>
             <tr class="table-light">
-              <th scope="row">10:15 AM</th>
+              <th scope="row">9:45 AM</th>
+              <th scope="row">2:45 AM</th>
             </tr>
             <tr class="table-light">
-              <th scope="row">10:30 AM</th>
+              <th scope="row">10:00 AM</th>
+              <th scope="row">3:00 AM</th>
             </tr>
             <tr>
-              <th scope="row">10:45 AM</th>
-              <td rowspan="3" colspan="3", class="table-primary" style="text-align:center;">
-                  <b>Keynote 2</b><br>TBD
+              <th scope="row">10:15 AM</th>
+              <th scope="row">3:15 AM</th>
+              <td colspan="3" class="table-active" style="text-align:center;">Buffer</td>
+            </tr>
+            <tr>
+              <th scope="row">10:30 AM</th>
+              <th scope="row">3:30 AM</th>
+              <td rowspan="3" colspan="3" class="table-primary" style="text-align:center;">
+                  <b>Keynote 2</b><br>Viola Priesemann
               </td>
             </tr>
             <tr class="table-light">
-              <th scope="row">11:00 AM</th>
+              <th scope="row">10:45 AM</th>
+              <th scope="row">3:45 AM</th>
             </tr>
             <tr class="table-light">
+              <th scope="row">11:00 AM</th>
+              <th scope="row">4:00 AM</th>
+            </tr>
+            <tr>
               <th scope="row">11:15 AM</th>
+              <th scope="row">4:15 AM</th>
+              <td colspan="3" class="table-primary" style="text-align:center;">Q&A</td>
             </tr>
             <tr>
               <th scope="row">11:30 AM</th>
-              <td rowspan="4" colspan="3", class="table-active" style="text-align:center;">
+              <th scope="row">4:30 AM</th>
+              <td rowspan="4" colspan="3" class="table-active" style="text-align:center;">
+                    Social Hour
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">11:45 AM</th>
+              <th scope="row">4:45 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">12:00 PM</th>
+              <th scope="row">5:00 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">12:15 PM</th>
+              <th scope="row">5:15 AM</th>
+            </tr>
+            <tr>
+              <th scope="row">12:30 PM</th>
+              <th scope="row">5:30 AM</th>
+              <td rowspan="8" class="table-primary">PyMC Sprints <br><b>(Room 1)</b></td>
+              <td class="table-warning">Sayam Kumar</td>
+              <td class="table-danger">Vincent D. Warmerdam & Matthijs Brouns</td>
+            </tr>
+            <tr>
+              <th scope="row">12:40 PM</th>
+              <th scope="row">5:40 AM</th>
+              <td class="table-warning">Rob Zinkov</td>
+              <td class="table-danger">Matthijs Brouns</td>
+            </tr>
+            <tr>
+              <th scope="row">12:50 PM</th>
+              <th scope="row">5:50 AM</th>
+              <td class="table-warning">Ali Akbar Septiandri</td>
+              <td class="table-danger">Alex Andorra</td>
+            </tr>
+            <tr>
+              <th scope="row">1:00 PM</th>
+              <th scope="row">6:00 AM</th>
+              <td class="table-warning">Thomas Wiecki</td>
+              <td class="table-danger">Tim Dodwell, Mikkel Lykkegaard, Grigorios Mingas</td>
+            </tr>
+            <tr>
+              <th scope="row">1:10 PM</th>
+              <th scope="row">6:10 AM</th>
+              <td class="table-warning">Ivan Yashchuk</td>
+              <td class="table-danger">Hessam Mehr and <a href = "{{site.url}}/speakers/#dario-caramelli-r">Dario Caramelli</a></td>
+            </tr>
+            <tr>
+              <th scope="row">1:20 PM</th>
+              <th scope="row">6:20 AM</th>
+              <td class="table-warning">Junpeng Lao</td>
+              <td class="table-danger">Ruben Mak</td>
+            </tr>
+            <tr>
+              <th scope="row">1:30 PM</th>
+              <th scope="row">6:30 AM</th>
+              <td class="table-warning">Michael Osthege, Laura Helleckes</td>
+              <td class="table-danger">Nicoleta Spinu</td>
+            </tr>
+            <tr>
+              <th scope="row">1:40 PM</th>
+              <th scope="row">6:40 AM</th>
+              <td class="table-warning">Luciano Paz</td>
+              <td class="table-danger">Evdoxia Taka</td>
+            </tr>
+            <tr>
+              <th scope="row">1:50 PM</th>
+              <th scope="row">6:50 AM</th>
+              <td colspan="3" class="table-active" style="text-align:center;">Buffer</td>
+            </tr>
+            <tr>
+              <th scope="row">2:00 PM</th>
+              <th scope="row">7:00 AM</th>
+              <td rowspan="4" colspan="3", class="table-danger" style="text-align:center;">
+                    <b>Keynote 3</b><br>Aki Vehtari
+              </td>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">2:15 PM</th>
+              <th scope="row">7:15 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">2:30 PM</th>
+              <th scope="row">7:30 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">2:45 PM</th>
+              <th scope="row">7:45 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">3:00 PM</th>
+              <th scope="row">8:00 AM</th>
+              <td colspan="3" class="table-active" style="text-align:center;">
+                    Ending notes
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <br>
+      <div class="table-responsive table-condensed" style="overflow: auto">
+        <table class="table table-hover">
+          <thead class="thead-dark" style="text-align:center;">
+            <tr>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2" style="text-align:left; max-width:80px">UTC + 0</th>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2" style="text-align:left;">UTC - 7</th>
+              <th scope="col" class="col-md-2 col-lg-2 col-sm-2">Track 1</th>
+              <th scope="col" class="col-md-6 col-lg-6 col-sm-6">Track 2</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">4:00 PM</th>
+              <th scope="row">9:00 AM</th>
+              <td rowspan="2" colspan="2" style="text-align:center;" class="table-warning">Welcome and Orientation</td>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">4:15 PM</th>
+              <th scope="row">9:15 AM</th>
+            </tr>
+            <tr >
+              <th scope="row">4:30 PM</th>
+              <th scope="row">9:30 AM</th>
+              <td rowspan="3" colspan="2" class="table-success" style="text-align:center;">
+                  <b>Keynote 1</b><br>Chris Fonnesbeck
+              </td>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">4:45 PM</th>
+              <th scope="row">9:45 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">5:00 PM</th>
+              <th scope="row">10:00 AM</th>
+            </tr>
+            <tr>
+              <th scope="row">5:15 PM</th>
+              <th scope="row">10:15 AM</th>
+              <td colspan="2" class="table-success" style="text-align:center;">Q&A</td>
+            </tr>
+            <tr>
+              <th scope="row">5:30 PM</th>
+              <th scope="row">10:30 AM</th>
+              <td rowspan="4" colspan="2" class="table-primary" style="text-align:center;">
+                  <b>Keynote 2</b><br>Aki Vehtari
+              </td>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">5:45 PM</th>
+              <th scope="row">10:45 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">6:00 PM</th>
+              <th scope="row">11:00 AM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">6:15 PM</th>
+              <th scope="row">11:15 AM</th>
+            </tr>
+            <tr>
+              <th scope="row">6:30 PM</th>
+              <th scope="row">11:30 AM</th>
+              <td colspan="2" class="table-primary" style="text-align:center;">Q&A</td>
+            </tr>
+            <tr>
+              <th scope="row">6:45 PM</th>
+              <th scope="row">11:45 AM</th>
+              <td rowspan="3" colspan="2" class="table-active" style="text-align:center;">
                     Lunch Hour
               </td>
             </tr>
             <tr class="table-light">
-              <th scope="row">11:45 AM</th>
-            </tr>
-            <tr class="table-light">
+              <th scope="row">7:00 PM</th>
               <th scope="row">12:00 PM</th>
             </tr>
             <tr class="table-light">
+              <th scope="row">7:15 PM</th>
               <th scope="row">12:15 PM</th>
             </tr>
             <tr>
+              <th scope="row">7:30 PM</th>
               <th scope="row">12:30 PM</th>
-              <td rowspan="10" class="table-primary">PyMC Sprints</td>
-              <td rowspan="7" class="table-warning">Beginner Speakers<br>9 speakers / 10 mins each</td>
-              <td rowspan="7" class="table-danger">Advanced Speakers<br>9 speakers / 10 mins each</td>
+              <td rowspan="10" class="table-primary">PyMC Sprints <br><b>(Room 1)</b></td>
+              <td class="table-warning">Cameron Davidson-Pilson</td>
             </tr>
-            <tr class="table-light">
-              <th scope="row">12:45 PM</th>
+            <tr>
+              <th scope="row">7:40 PM</th>
+              <th scope="row">12:40 PM</th>
+              <td class="table-warning">Pedro German Ramirez, Osvaldo Martin</td>
             </tr>
-            <tr class="table-light">
+            <tr>
+              <th scope="row">7:50 PM</th>
+              <th scope="row">12:50 PM</th>
+              <td class="table-warning">Tushar Chandra</td>
+            </tr>
+            <tr>
+              <th scope="row">8:00 PM</th>
               <th scope="row">1:00 PM</th>
+              <td class="table-warning">Agustina Arroyuelo</td>
             </tr>
-            <tr class="table-light">
-              <th scope="row">1:15 PM</th>
+            <tr>
+              <th scope="row">8:10 PM</th>
+              <th scope="row">1:10 PM</th>
+              <td class="table-warning">Allen Downey</td>
             </tr>
-            <tr class="table-light">
+            <tr>
+              <th scope="row">8:20 PM</th>
+              <th scope="row">1:20 PM</th>
+              <td class="table-warning">Quan Nguyen</td>
+            </tr>
+            <tr>
+              <th scope="row">8:30 PM</th>
               <th scope="row">1:30 PM</th>
+              <td class="table-warning">Dan Foreman-Mackey</td>
             </tr>
-            <tr class="table-light">
-              <th scope="row">1:45 PM</th>
+            <tr>
+              <th scope="row">8:40 PM</th>
+              <th scope="row">1:40 PM</th>
+              <td class="table-warning">Michael Johns & Zhenyu Wang</td>
             </tr>
-            <tr class="table-light">
+            <tr>
+              <th scope="row">8:50 PM</th>
+              <th scope="row">1:50 PM</th>
+              <td class="table-warning">Agustina Arroyuelo</td>
+            </tr>
+            <tr>
+              <th scope="row">9:00 PM</th>
               <th scope="row">2:00 PM</th>
+              <td class="table-warning">Mo Akhshik </td>
             </tr>
             <tr>
+              <th scope="row">9:15 PM</th>
               <th scope="row">2:15 PM</th>
-              <td rowspan="3" class="table-success">Lightning Talks</td>
-              <td rowspan="3"></td>
-            </tr>
-            <tr class="table-light">
-              <th scope="row">2:30 PM</th>
-            </tr>
-            <tr class="table-light">
-              <th scope="row">2:45 PM</th>
-            </tr>
-            <tr>
-              <th scope="row">3:00 PM</th>
-              <td rowspan="3" colspan="3", class="table-danger" style="text-align:center;">
-                    <b>Keynote 3</b><br>TBD
+              <td rowspan="3" colspan="2", class="table-danger" style="text-align:center;">
+                    <b>Keynote 3</b><br>Viola Priesemann
               </td>
             </tr>
             <tr class="table-light">
-              <th scope="row">3:15 PM</th>
+              <th scope="row">9:30 PM</th>
+              <th scope="row">2:30 PM</th>
             </tr>
             <tr class="table-light">
-              <th scope="row">3:30 PM</th>
+              <th scope="row">9:45 PM</th>
+              <th scope="row">2:45 PM</th>
+            </tr>
+            <tr class="table-light">
+              <th scope="row">10:00 PM</th>
+              <th scope="row">3:00 PM</th>
+              <td colspan="2" class="table-active" style="text-align:center;">
+                    Ending notes
+              </td>
             </tr>
           </tbody>
         </table>
