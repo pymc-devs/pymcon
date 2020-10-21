@@ -108,15 +108,15 @@ Aki is also a co-author of the popular and awarded book « Bayesian Data Analysi
   subtitle: Speaker
   twitter: alex_andorra
   github: AlexAndorra
-  web:
+  web: https://learnbayesstats.anvil.app/
   image: alex.png
   thumbnail: alex.png
   alt: Alex
   topic: Using Hierarchical Multinomial regression to predict elections in Paris at the district-level
   proposal_summary: Predicting elections in Paris with hierarchical multinomial regression
-  discourse_link:
+  discourse_link: https://discourse.pymc.io/t/using-hierarchical-multinomial-regression-to-predict-elections-in-paris-at-the-district-level-by-alex-andorra/6057
   youtube_link:
-  description: By day, Alex is a data scientist trying to implement Bayesian models at the French firm Societe.com.
+  description: By day, Alex is a data scientist and modeler at the brand new PyMC | Labs consultancy.
     By night, he doesn’t (yet) fight crime, but he’s an open-source enthusiast and core contributor to the python packages PyMC and ArviZ.
     Alex is also the creator and host of the only podcast dedicated to Bayesian statistics, “Learning Bayesian Statistics”.
     Every fortnight, he interviews practitioners of all fields about why and how they use Bayesian statistics.
