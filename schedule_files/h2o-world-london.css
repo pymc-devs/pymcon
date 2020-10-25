@@ -1159,7 +1159,9 @@ body.h2o .text-black {
 }
 
 body.h2o .bg-black {
-    background-color: #000000;
+    background-color: white;
+    border-top: 1px solid;
+    border-color: #716568
 }
 
 body.h2o .border-black {
@@ -1189,7 +1191,7 @@ body.h2o .text-yellow {
 }
 
 body.h2o .bg-yellow {
-    background-color: #ffe52b;
+    background-color: white;
 }
 body.h2o .bg-agenda-grey {
     background-color: #4d4d4d;
@@ -4432,18 +4434,19 @@ body.h2o .events-schedule .col-grid.multi-coulmn .column {
 }
 
 body.h2o .events-schedule .column p {
-    color: white;
+    color: #3498db;
     font-size: 18px;
+    font-weight: 500;
     margin: 0;
-    font-family: "proxima-nova", sans-serif;
+    font-family: "pt-sans narrow", sans-serif;
 }
 
 body.h2o .events-schedule .column.bg-yellow p {
-    color: black;
+    /* color: black; */
 }
 
 body.h2o .events-schedule .column span {
-    color: white;
+    color: #ba5d38;
     font-size: 14px;
     font-family: "proxima-nova", sans-serif;
 }
@@ -4463,7 +4466,9 @@ body.h2o .events-schedule .three-col .col-three {
     margin-right: 10px;
     float: left;
     position: relative;
-    background-color: #4d4d4d;
+    /* background-color: #4d4d4d; */
+    border-bottom: 2px solid;
+    border-color: darkviolet;
 }
 
 body.h2o .events-schedule .three-col.gary.we-col-3 {
@@ -4517,8 +4522,9 @@ body.h2o .events-schedule .four-col.column.gary {
 
 body.h2o .events-schedule .three-col .col-three p {
     font-size: 18px;
-    color: white;
+    /* color: white; */
     margin: 0;
+    text-align: center;
 }
 
 body.h2o .events-schedule .four-col .col-four p {
@@ -5382,6 +5388,17 @@ body.h2o .events-schedule.explain-event .col-grid a.link-text {
     word-break: break-all;
 }
 
+body.h2o .events-schedule.explain-event .col-grid a.author {
+    position: relative;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    font-size: 14px;
+    color: black;
+    font-weight:600;
+    font-family: proxima-nova, sans-serif;
+}
+
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-2 {
     width: calc(50% - 10px) !important;
     margin: 0 5px;
@@ -5546,4 +5563,3 @@ body.h2o #close-video {
 body.h2o #close-video img {
     vertical-align: middle;
 }
-
