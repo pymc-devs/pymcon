@@ -707,7 +707,7 @@ body.h2o h6 span {
 }
 
 body.h2o p {
-    font-size: 24px;
+    font-size: 28px;
     line-height: 1.25;
     font-family: "proxima-nova", sans-serif;
 }
@@ -4435,9 +4435,9 @@ body.h2o .events-schedule .col-grid.multi-coulmn .column {
 
 body.h2o .events-schedule .column p {
     color: #3498db;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
-    margin: 0;
+    margin-bottom: 5px;
     font-family: "pt-sans narrow", sans-serif;
 }
 
@@ -4447,12 +4447,27 @@ body.h2o .events-schedule .column.bg-yellow p {
 
 body.h2o .events-schedule .column span {
     color: #ba5d38;
-    font-size: 14px;
+    font-size: 16px;
     font-family: "proxima-nova", sans-serif;
 }
 
+.time-americas {
+  color: #4d4d4d !important;
+}
+
+.time-americas-two-col {
+  color: #4d4d4d !important;
+  font-size: 15px !important;
+  position:relative;
+  top:-5px;
+}
+
+.utc-tz {
+    font-size: 12px !important;
+}
+
 body.h2o .events-schedule .column.bg-yellow span {
-    color: black;
+    /* color: black; */
 }
 
 body.h2o .events-schedule .three-col,
@@ -5327,7 +5342,7 @@ body.h2o .community-overlay-form .mktoForm button.mktoButton:focus {
 /*explain event*/
 
 body.h2o .events-schedule.explain-event .column p + span {
-    display: block;
+    display: inline-block;
 }
 
 body.h2o .events-schedule.explain-event .three-col.gary .col-three {
@@ -5392,11 +5407,12 @@ body.h2o .events-schedule.explain-event .col-grid a.author {
     position: relative;
     width: auto;
     height: auto;
-    display: inline-block;
+    display: block;
     font-size: 14px;
     color: black;
     font-weight:600;
     font-family: proxima-nova, sans-serif;
+    margin-top: 5px;
 }
 
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-2 {
