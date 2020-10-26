@@ -5588,3 +5588,8 @@ body.h2o #close-video img {
   border-color: #ddd !important;
   background-color: #ddd !important;
 }
+
+.time-fixed-width {
+  display: inline-block;
+  width: 135px;
+}
