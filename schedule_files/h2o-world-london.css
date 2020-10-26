@@ -5579,3 +5579,12 @@ body.h2o #close-video {
 body.h2o #close-video img {
     vertical-align: middle;
 }
+
+.navbar-default {
+  background-color: #222 !important;
+}
+
+.navbar-toggle {
+  border-color: #ddd !important;
+  background-color: #ddd !important;
+}
