@@ -5423,10 +5423,12 @@ body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-2 {
 }
 
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-3 {
-    width: calc(33.33% - 10px) !important;
-    margin: 0 5px;
+    width: calc(33.33% - 40px) !important;
+    margin-left: 20px;
+    margin-right: 20px;
     float: left;
-
+    min-width: 300px !important;
+    min-height: 74px !important;
 }
 
 body.h2o .events-schedule.explain-event .col-grid .column.we-inner-col-4 {
@@ -5592,4 +5594,22 @@ body.h2o #close-video img {
 .time-fixed-width {
   display: inline-block;
   width: 135px;
+}
+
+#first-sprint:before {
+    display: none;
+}
+
+#fourth-sprint:before {
+    display: none;
+}
+
+#track-box {
+    padding-left: 0px !important;
+    max-width: 1200px;
+    display: flex;
+}
+
+#track-box:before {
+    background-color: white;
 }
