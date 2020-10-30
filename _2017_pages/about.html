@@ -1,45 +1,100 @@
 ---
 layout: 2017_default
 permalink: /about
-title: About the Conference
+title: About PyMCon
+description: "What can you expect at PyMCon? See what each of the amazing activities
+  planned is about."
 ---
     <!--background color-->
     <script type="text/javascript">
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
     </script>
 
-    <section id="conference" class="black-frame about about-container about-container-top">
-      <h1>{{ page.title }}</h1>
+    <style>.centered {text-align: center;}</style>
 
-      <div class="icon-about">
-        <img src="./css/2017_style/img/TBD.jpeg" alt="icon-about">
+    <section id="async" class="black-frame about about-container about-container-top">
+      <h1>Asynchronous activities</h1>
+
+      <h2 class="first">Video presentations</h2>
+
+      <p>The heart of PyMCon are its video presentations. The speakers have all prerecorded
+      their presentations to be published on October 24th. PyMCon videos are available
+      for everyone without any registration required.</p>
+
+      <p>
+      There are three presentation formats:
+      <dl>
+        <dt><a class="reference internal" href="./cfp#talks">Talks</a></dt>
+        <dd>30-40 min video about tricks, best practices, related library, etc.</dd>
+        <dt><a class="reference internal" href="./cfp#tutorials">Tutorials</a></dt>
+        <dd>60 min video + engaging exercises diving into a topic.</dd>
+        <dt><a class="reference internal" href="./cfp#lbam">Let's build a model</a></dt>
+        <dd>45 min to 120 min video documenting how to build an example model using PyMC or associated library such as Bambi.</dd>
+      </dl>
+      </p>
+
+      <div class="centered">
+         <a href ="https://www.youtube.com/watch?v=LTLfeNyioR8&list=PLD1x-BW9UdeHN2vwR6kIApJATd2jZzeya" class="btn btn-sm normal-text">Watch videos!</a>
       </div>
 
-      <h2 class="second">Theme</h2>
+      <p>
 
-      <p>Your Theme</p>
+      </p>
 
-      <h2 class="third">Mission</h2>
+      <h2 class="first">Asynchronous discussion</h2>
 
-      <p>Your Mission</p>
+      <p>In order to ease the interaction with the speakers and encourage discussion on the different talk topics, each talk has its own post on <a href="https://discourse.pymc.io/">PyMC Discourse</a>.</p>
+      <p>PyMCon is an async first conference. Not being able to attend the live session on the 31st does not prevent accessing the talks nor interacting with the speakers.</p>
 
-      <h2 class="second">Vision</h2>
+      <div class="centered">
+         <a href ="https://discourse.pymc.io/c/pymcon/2020talks/15" class="btn btn-sm normal-text">Access the async discussion</a>
+      </div>
 
-      <p>Your Vision</p>
-      
-      <h2 class="first">Objectives</h2>
+      <h2 class="first">Begginer zone</h2>
 
-      <p>Your Objective</p>
+      <p>If you’re brand new to Bayesian statistics, have questions, but not sure where
+      to start, the Beginner zone is the place. Specifically its a mailing list like chat
+      channel in the PyMCon 2020 Zulip organization where seasoned Bayesians will be
+      available to to help folks out.</p>
+
+      <p>It’ll be active from October 24th to November 7th. If you’re interested please
+      register using the form below and you’ll get an invite shortly.</p>
+
+      <div class="centered">
+         <a href ="https://docs.google.com/forms/d/e/1FAIpQLSepWsqKK5V7Uvh5fOZNBjHSXNvHR-mCofFOeKICQeoTAFgXOw/viewform?usp=send_form" class="btn btn-sm normal-text">Register for the begginer zone!</a>
+      </div>
+
+      <h2 class="first">Discourse networking</h2>
+
+      <p>Starting October 24th, PyMC Discourse is not only a place for PyMC related questions.
+      Our sponsors and community partners will also have topics dedicated to them where
+      attendees to PyMCon's async format can network and interact with them.</p>
+
+      <div class="centered">
+         <a href ="https://discourse.pymc.io/c/pymcon/2020talks/15" class="btn btn-sm normal-text">Join Discourse!</a>
+      </div>
+
     </section>
 
-    <section id="fourth" class="black-frame about about-container">
-      <h1>Title</h1>
+    <section id="sync" class="black-frame about about-container">
+      <h1>Syncronous session</h1>
 
-      <p>More</p>
-    </section>
+      <p>This page describes each activity, to see when will they happen go to our
+      <a href="{{ "./schedule" | absolute_url }}">schedule page</a></p>
 
-    <section id="fifth" class="black-frame about about-container about-container-bottom">
-      <h1>About</h1>
-
-      <p>Info</p>
+      <h2 class="first">Keynotes</h2>
+      <p>PyMCon will have 3 keynotes. The keynotes are invited talks that will be shared
+      for the first time during the live session, and will only be published afterwards.</p>
+      <p>The keynotes will be broadcasted twice, once per time zone of the live event, but
+      not all broadcasts will have a Q&A session at it end. Check the
+      <a href="{{ "./schedule" | absolute_url }}">schedule page</a> for more details</p>
+      <h2 class="first">Live speaker Q&A</h2>
+      <p>In addition to being able to interact via Discourse with the speakers, each speaker
+      will also have 10 minutes to anwswer questions either from Discourse or Zulip about
+      their video presentations.</p>
+      <h2 class="first">Sprint</h2>
+      <p>PyMCon will also host a Sprint during the Africa/Asia/Europe time zone to encourage
+      and guide new contributors to the different libraries of the PyMC project.</p>
+      <p>The sprint will have core contributors dedicated to onboard the new contributors,
+      point to interesting issues and make sure the PRs are reviewed.</p>
     </section>
