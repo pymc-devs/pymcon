@@ -7,15 +7,11 @@
   image: Fonnesbeck.png
   thumbnail: Fonnesbeck.png
   alt: Chris
-  topic:
+  topic: "PyMC: Past, Present, and Future"
   description: "Chris is a Senior Quantitative Analyst in Baseball Operations for the New York Yankees.
-
-
     He is interested in computational statistics, machine learning, Bayesian methods, and applied decision analysis.
-
-
     He hails from Vancouver, Canada and received his Ph.D. from the University of Georgia."
-  proposal_summary:
+  proposal_summary: "To kick off PyMCON 2020, I will provide some of the back-story of the PyMC project: where we've been, where we are, and where we might go"
   discourse_link:
   youtube_link:
   presentation_type: Keynote
@@ -32,18 +28,12 @@
   image: Viola.jpg
   thumbnail: Viola.jpg
   alt: Viola
-  topic:
+  topic: Inferring the spread of SARS-CoV-2 --- and measures to mitigate it
   description: "Viola heads a research team at the Max Planck Institute for Dynamics and Self-Organization.
-
-
     She investigates the self-organization of spreading dynamics in the brain to understand the emergence of living computation.
-
-
     With the outbreak of COVID-19, she adapted these mathematical approaches to infer and predict the spread of SARS-CoV-2, and to investigate mitigation strategies.
-
-
     Viola is board member of the Campus Institute for Data Science and Fellow of the Schiemann Kolleg."
-  proposal_summary:
+  proposal_summary: With the second waves of COVID-19 unfolding in most European countries, it is worth to look back at the first wave and especially the past summer, where case numbers were case numbers stayed low. I will present approaches to infer the effectiveness of interventions, and models to explore their potential. This talk will be interesting for anyone wanting to understand the current and potential future dynamics of COVID-19.
   discourse_link:
   youtube_link:
   presentation_type: Keynote
